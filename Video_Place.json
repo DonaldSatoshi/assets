@@ -12,55 +12,11 @@
   {
     "title": "Dungeon Meshi",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Dungeon%20Meshi/engsub_Dungeon_Meshi_S1_%02d.mp4",
-    "episode_count": 11
+    "episode_count": 17
   },
   {
     "title": "Toriko",
-    "episodes": [
-      {
-        "title": "ep1 We see Toriko！",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e001.mp4"
-      },
-      {
-        "title": "ep2 Toriko get a Gararawani",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e002.mp4"
-      },
-      {
-        "title": "ep3 rainbow fruit",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e003.mp4"
-      },
-      {
-        "title": "ep4 rainbow fruit",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e004.mp4"
-      },
-      {
-        "title": "ep5 kugi punch!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e005.mp4"
-      },
-      {
-        "title": "ep6 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e006.mp4"
-      },
-      {
-        "title": "ep7 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e007.mp4"
-      },
-      {
-        "title": "ep8 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e008.mp4"
-      },
-      {
-        "title": "ep9 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e009.mp4"
-      },
-      {
-        "title": "ep10 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e010.mp4"
-      },
-      {
-        "title": "ep11 hugu kujira!",
-        "url": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_e011.mp4"
-      }
-    ]
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Toriko/Toriko_$d3d.mp4",
+    "episode_count": 3
   }
 ]
