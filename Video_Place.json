@@ -16,7 +16,7 @@
   },
   {
     "title": "Toriko",
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Toriko/engsub_Toriko_%03d.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Toriko/engsub_Toriko_e%03d.mp4",
     "episode_count": 3
   }
 ]
