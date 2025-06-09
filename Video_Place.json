@@ -10,6 +10,11 @@
     "episode_count": 24
   },
   {
+    "title": "Dungeon Meshi",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Dungeon%20Meshi/engsub_Dungeon_Meshi_S1_%02d.mp4",
+    "episode_count": 11
+  },
+  {
     "title": "Toriko",
     "episodes": [
       {
