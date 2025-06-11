@@ -22,6 +22,21 @@
   {
     "title": "Yuyu Hakusho",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
+    "episode_count": 10
+  },
+  {
+    "title": "Dragon Ball Super",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Dragon%20Ball%20Super/Dragon_Ball_%03d.mp4",
+    "episode_count": 10
+  },
+  {
+    "title": "Naruto",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
+    "episode_count": 10
+  },
+  {
+    "title": "Jujutsu Kaisen",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Jujutsu%20Kaisen/Jujutsu_Kaisen_%03d.mp4",
     "episode_count": 5
   }
 ]
