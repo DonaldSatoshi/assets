@@ -38,5 +38,10 @@
     "title": "Jujutsu Kaisen",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Jujutsu%20Kaisen/Jujutsu_Kaisen_%03d.mp4",
     "episode_count": 5
+  },
+  {
+    "title": "My Hero Academia",
+    "episode_format": "My_Hero_Academia_%03d.mp4",
+    "episode_count": 10
   }
 ]
