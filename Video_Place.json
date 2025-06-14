@@ -43,5 +43,10 @@
     "title": "My Hero Academia",                   
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/My%20Hero%20Academia/My_Hero_Academia_%03d.mp4",
     "episode_count": 13
+  },
+  {
+    "title": "Violet Evergarden",                   
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Violet%20Evergarden/engsub_Violet_Evergarden_%02d.mp4",
+    "episode_count": 13
   }
 ]
