@@ -48,5 +48,10 @@
     "title": "Violet Evergarden",                   
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Violet%20Evergarden/engsub_Violet_Evergarden_%03d.mp4",
     "episode_count": 13
+  },
+  {
+    "title": "One Punch Man",                   
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/One%20Punch%20Man/engsub_One_Punch_Man_%3d.mp4",
+    "episode_count": 12
   }
 ]
