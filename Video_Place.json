@@ -51,7 +51,12 @@
   },
   {
     "title": "One Punch Man",                   
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/One%20Punch%20Man/engsub_One_Punch_Man_%3d.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/One%20Punch%20Man/engsub_One_Punch_Man_%03d.mp4",
     "episode_count": 12
+  },
+  {
+    "title": "Frieren: Beyond Journey's End",                   
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Frieren/engsub_Frieren_%03d.mp4",
+    "episode_count": 12    
   }
 ]
