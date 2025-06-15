@@ -58,5 +58,15 @@
     "title": "Frieren: Beyond Journey's End",                   
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Frieren/engsub_Frieren_%03d.mp4",
     "episode_count": 27    
+  },
+  {
+    "title": "Chainsaw Man",                   
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Chainsaw%20Man/engsub_EP01CM_%03d.mp4",
+    "episode_count": 12    
+  },
+  {
+    "title": "Mob Psycho",                   
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Chainsaw%20Man/engsub_EP01CM_%03d.mp4",
+    "episode_count": 13    
   }
 ]
