@@ -66,7 +66,7 @@
   },
   {
     "title": "Mob Psycho 100",                   
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Mob%20Psycho%20100/engsub_Mob_Psycho_001.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Mob%20Psycho%20100/engsub_Mob_Psycho_%03d.mp4",
     "episode_count": 13    
   }
 ]
