@@ -46,7 +46,7 @@
   },
   {
     "title": "Violet Evergarden",
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Violet%20Evergarden/engsub_Violet_Evergarden_%03d.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Violet%20Evergarden/engsub_Violet_Evergarden_v1_%03d.mp4",
     "episode_count": 13
   },
   {
@@ -87,6 +87,6 @@
   {
     "title": "Card Captor Sakura",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Card%20Captor%20Sakura/engsub_Cardcaptor_Sakura_v1_%03d.mp4",
-    "episode_count": 13
+    "episode_count": 12
   }
 ]
