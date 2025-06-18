@@ -86,7 +86,7 @@
   },
   {
     "title": "Card Captor Sakura",
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Card%20Captor%20Sakura/engsub_Cardcaptor_Sakura_v1_%03d.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Card%20Captor%20Sakura/engsub_Cardcaptor_Sakura_v2_%03d.mp4",
     "episode_count": 24
   },
   {
@@ -96,7 +96,12 @@
   },
   {
     "title": "Hunter_Hunter",
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Hunter_Hunter/engsub_hunter_hunter_001.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Hunter_Hunter/engsub_hunter_hunter_v1_%03d.mp4",
     "episode_count": 30
+  },
+  {
+    "title": "Tengoku Daimakyou",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Tengoku%20Daimakyou/engsub_tengoku_daimakyou_%03d.mp4",
+    "episode_count": 12
   }
 ]
