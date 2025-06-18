@@ -41,7 +41,7 @@
   },
   {
     "title": "My Hero Academia",
-    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/My%20Hero%20Academia/My_Hero_Academia_%03d.mp4",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/My%20Hero%20Academia/My_Hero_Academia_v1_%03d.mp4",
     "episode_count": 13
   },
   {
@@ -93,5 +93,10 @@
     "title": "Ninja Go",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Ninja%20Go/engsub_Ninja_Go_%03d.mp4",
     "episode_count": 13
+  },
+  {
+    "title": "Hunter_Hunter",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Ninja%20Go/engsub_Ninja_Go_%03d.mp4",
+    "episode_count": 30
   }
 ]
