@@ -103,5 +103,10 @@
     "title": "Tengoku Daimakyou",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Tengoku%20Daimakyou/engsub_tengoku_daimakyou_%03d.mp4",
     "episode_count": 12
+  },
+  {
+    "title": "Dandadan",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Dandadan/engsub_Dandadan_%03d.mp4",
+    "episode_count": 12
   }
 ]
