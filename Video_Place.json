@@ -37,7 +37,7 @@
   {
     "title": "Jujutsu Kaisen",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Jujutsu%20Kaisen/Jujutsu_Kaisen_%03d.mp4",
-    "episode_count": 5
+    "episode_count": 23
   },
   {
     "title": "My Hero Academia",
@@ -92,7 +92,7 @@
   {
     "title": "Ninja Go",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Ninja%20Go/engsub_Ninja_Go_%03d.mp4",
-    "episode_count": 13
+    "episode_count": 25
   },
   {
     "title": "Hunter_Hunter",
@@ -108,5 +108,10 @@
     "title": "Dandadan",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Dandadan/engsub_Dandadan_%03d.mp4",
     "episode_count": 12
+  },
+  {
+    "title": "Nichijou",
+    "episode_format": "",
+    "episode_count": 27
   }
 ]
