@@ -16,7 +16,7 @@
   },
   {
     "title": "Toriko",
-    "episode_format": "https://AnimeBox.b-cdn.net/Toriko/English/engsub_Toriko_e%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Toriko/English/engsub_Toriko_%03d.mp4",
     "episode_count": 16
   },
   {
