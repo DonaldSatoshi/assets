@@ -1,117 +1,117 @@
 [
   {
     "title": "Demon Slayer",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/DemonSlayer/EnglishSub/engsub_DemonSlayer_S1_%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/DemonSlayer/EnglishSub/engsub_DemonSlayer_S1_%02d.mp4",
     "episode_count": 26
   },
   {
     "title": "Attack On Titan",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Attack_on_Titan/S1/Attack_on_Titan_S1__%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Attack_on_Titan/S1/Attack_on_Titan_S1__%02d.mp4",
     "episode_count": 24
   },
   {
     "title": "Dungeon Meshi",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Dungeon%20Meshi/engsub_Dungeon_Meshi_S1_%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Dungeon%20Meshi/engsub_Dungeon_Meshi_S1_%02d.mp4",
     "episode_count": 24
   },
   {
     "title": "Toriko",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Toriko/engsub_Toriko_e%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Toriko/engsub_Toriko_e%03d.mp4",
     "episode_count": 16
   },
   {
     "title": "Yuyu Hakusho",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
     "episode_count": 25
   },
   {
     "title": "Dragon Ball Super",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Dragon%20Ball%20Super/Dragon_Ball_Super_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Dragon%20Ball%20Super/Dragon_Ball_Super_%03d.mp4",
     "episode_count": 10
   },
   {
     "title": "Naruto",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Yuyu%20Hakusho/engsub_Yuyu_Hakusho_%02d.mp4",
     "episode_count": 10
   },
   {
     "title": "Jujutsu Kaisen",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Jujutsu%20Kaisen/engsub_Jujutsu_Kaisen_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Jujutsu%20Kaisen/engsub_Jujutsu_Kaisen_%03d.mp4",
     "episode_count": 23
   },
   {
     "title": "My Hero Academia",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/My%20Hero%20Academia/My_Hero_Academia_v1_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/My%20Hero%20Academia/My_Hero_Academia_v1_%03d.mp4",
     "episode_count": 13
   },
   {
     "title": "Violet Evergarden",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Violet%20Evergarden/engsub_Violet_Evergarden_v1_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Violet%20Evergarden/engsub_Violet_Evergarden_v1_%03d.mp4",
     "episode_count": 13
   },
   {
     "title": "One Punch Man",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/One%20Punch%20Man/engsub_One_Punch_Man_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/One%20Punch%20Man/engsub_One_Punch_Man_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Frieren: Beyond Journey's End",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Frieren/engsub_Frieren_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Frieren/engsub_Frieren_%03d.mp4",
     "episode_count": 27
   },
   {
     "title": "Chainsaw Man",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Chainsaw%20Man/engsub_chainsawman_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Chainsaw%20Man/engsub_chainsawman_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Mob Psycho 100",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Mob%20Psycho%20100/Engsub_Mob_Psycho_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Mob%20Psycho%20100/Engsub_Mob_Psycho_%03d.mp4",
     "episode_count": 13
   },
   {
     "title": "SPYxFAMILY",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/SPYxFAMILY/SPYxFAMILY_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/SPYxFAMILY/SPYxFAMILY_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Jojo",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Jojo/engsub_Jojo_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Jojo/engsub_Jojo_%03d.mp4",
     "episode_count": 26
   },
   {
     "title": "Bocchi the Rock",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Bocchi%20the%20Rock/engsub_Bocchi_The_Rock_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Bocchi%20the%20Rock/engsub_Bocchi_The_Rock_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Card Captor Sakura",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Card%20Captor%20Sakura/engsub_Cardcaptor_Sakura_v2_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Card%20Captor%20Sakura/engsub_Cardcaptor_Sakura_v2_%03d.mp4",
     "episode_count": 24
   },
   {
     "title": "Ninja Go",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Ninja%20Go/engsub_Ninja_Go_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Ninja%20Go/engsub_Ninja_Go_%03d.mp4",
     "episode_count": 25
   },
   {
     "title": "Hunter_Hunter",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Hunter_Hunter/engsub_hunter_hunter_v1_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Hunter_Hunter/engsub_hunter_hunter_v1_%03d.mp4",
     "episode_count": 30
   },
   {
     "title": "Tengoku Daimakyou",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Tengoku%20Daimakyou/engsub_tengoku_daimakyou_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Tengoku%20Daimakyou/engsub_tengoku_daimakyou_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Dandadan",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Dandadan/engsub_Dandadan_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Dandadan/engsub_Dandadan_%03d.mp4",
     "episode_count": 12
   },
   {
     "title": "Nichijou",
-    "episode_format": "https://AnimeBox.b-cdn.net/anime/Nichijou/engsub_nichijou_%03d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Nichijou/engsub_nichijou_%03d.mp4",
     "episode_count": 27
   }
 ]
