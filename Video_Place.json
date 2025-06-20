@@ -1,17 +1,17 @@
 [
   {
     "title": "Demon Slayer",
-    "episode_format": "https://AnimeBox.b-cdn.net/DemonSlayer/English/engsub_DemonSlayer_S1_%02d.mp4",
+    "episode_format": "https://pub-75128aa75ec441cd8509d68f7bb1a1fe.r2.dev/Attack_on_Titan/S1/Attack_on_Titan_S1__01.mp4",
     "episode_count": 26
   },
   {
     "title": "Attack On Titan",
-    "episode_format": "https://AnimeBox.b-cdn.net/Attack_on_Titan/S1/Attack_on_Titan_S1__%02d.mp4",
+    "episode_format": "https://pub-75128aa75ec441cd8509d68f7bb1a1fe.r2.dev/Attack_on_Titan/S1/Attack_on_Titan_S1__%02d.mp4",
     "episode_count": 24
   },
   {
     "title": "Dungeon Meshi",
-    "episode_format": "https://AnimeBox.b-cdn.net/Dungeon%20Meshi/engsub_Dungeon_Meshi_S1_%02d.mp4",
+    "episode_format": "https://AnimeBox.b-cdn.net/Dungeon_Meshi/English/S1/engsub_Dungeon_Meshi_S1_%02d.mp4",
     "episode_count": 24
   },
   {
