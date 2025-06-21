@@ -113,5 +113,10 @@
     "title": "Nichijou",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Nichijou/engsub_nichijou_%03d.mp4",
     "episode_count": 27
+  },
+  {
+    "title": "Evangelion",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/Nichijou/engsub_nichijou_%03d.mp4",
+    "episode_count": 26
   }
 ]
