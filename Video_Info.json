@@ -123,5 +123,15 @@
     "title": "One_Peace",
     "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Anime_Image/One_Peace.jpg?raw=true",
     "description":"Monkey D. Luffy sets sail on a quest to find the legendary treasure known as One Piece and become the King of the Pirates. Alongside his colorful crew, Luffy faces powerful foes, uncovers ancient mysteries, and experiences epic adventures across a vast and imaginative world."
+  },
+  {
+    "title": "Demon Slayer MugenTrain",
+    "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Anime_Image/MugenTrain.jpg?raw=true",
+    "description":"Tanjiro and his companions board the Mugen Train to assist the Flame Hashira, Kyojuro Rengoku, in investigating mysterious disappearances. What begins as a routine mission turns into a fight for survival against powerful demons in this thrilling, emotionally charged movie."
+  },
+  {
+    "title": "Death Note",
+    "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Anime_Image/DeathNote.jpg?raw=true",
+    "description": "High school genius Light Yagami discovers a mysterious notebook that lets him kill anyone whose name he writes in it. As Light sets out to rid the world of evil, a deadly cat-and-mouse game unfolds between him and the enigmatic detective L."
   }
 ]

@@ -123,5 +123,15 @@
     "title": "One_Peace",
     "episode_format": "https://AnimeShelf.b-cdn.net/Anime/One_Peace/engsub_One_Peace_%03d.mp4",
     "episode_count": 24
+  },
+  {
+    "title": "Demon Slayer MugenTrain",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/DemonSlayer_MugenTrain/Demonslayer_Mugentrain_001.mp4",
+    "episode_count": 1
+  },
+  {
+    "title": "Death Note",
+    "episode_format": "https://AnimeShelf.b-cdn.net/Anime/One_Peace/engsub_One_Peace_%03d.mp4",
+    "episode_count": 35
   }
 ]
