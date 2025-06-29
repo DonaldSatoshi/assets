@@ -1,0 +1,36 @@
+[
+  {
+    "title": "ワンピース",
+    "description": "海賊冒険漫画の金字塔。",
+    "image_url": "https://example.com/onepiece.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "pages": [
+        ]
+      },
+      {
+        "title": "第2話",
+        "pages": [
+        ]
+      }
+    ]
+  },
+  {
+    "title": "鬼滅の刃",
+    "description": "家族を守る剣士の物語。",
+    "image_url": "https://example.com/kimetsu.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "pages": [
+        ]
+      },
+      {
+        "title": "第2話",
+        "pages": [
+        ]
+      }
+    ]
+  }
+]
