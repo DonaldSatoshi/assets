@@ -19,7 +19,7 @@
   {
     "title": "Sakamoto Days",
     "description": "家族を守る剣士の物語。",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg//Manga_Image/Sakamoto_Days.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
       { "title": "第1話", "page_count": 58 },
