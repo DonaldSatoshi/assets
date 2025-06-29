@@ -7,11 +7,19 @@
       {
         "title": "第1話",
         "pages": [
+           "https://example.com/onepiece/ep_01/page_001.jpg",
+           "https://example.com/onepiece/ep_01/page_002.jpg",
+           "https://example.com/onepiece/ep_01/page_003.jpg",
+           "https://example.com/onepiece/ep_01/page_004.jpg",
+           "https://example.com/onepiece/ep_01/page_005.jpg"
         ]
       },
       {
         "title": "第2話",
         "pages": [
+           "https://example.com/onepiece/ep_01/page_001.jpg",
+           "https://example.com/onepiece/ep_01/page_003.jpg",
+           "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       }
     ]
@@ -24,11 +32,16 @@
       {
         "title": "第1話",
         "pages": [
+          "https://example.com/onepiece/ep_01/page_001.jpg",
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       },
       {
         "title": "第2話",
         "pages": [
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       }
     ]
