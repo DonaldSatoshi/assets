@@ -7,46 +7,25 @@
       {
         "title": "第1話",
         "pages": [
-           "https://example.com/onepiece/ep_01/page_001.jpg",
-           "https://example.com/onepiece/ep_01/page_002.jpg",
-           "https://example.com/onepiece/ep_01/page_003.jpg",
-           "https://example.com/onepiece/ep_01/page_004.jpg",
-           "https://example.com/onepiece/ep_01/page_005.jpg"
         ]
       },
       {
         "title": "第2話",
         "pages": [
-           "https://example.com/onepiece/ep_01/page_001.jpg",
-           "https://example.com/onepiece/ep_01/page_003.jpg",
-           "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       }
     ]
   },
   {
     "title": "Sakamoto Days",
-    "description": "家族を守る剣士の物語。",
-    "image_url": "https://example.com/kimetsu.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
-      {
-        "title": "第1話",
-        "pages": [
-          "https://example.com/onepiece/ep_01/page_001.jpg",
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
-        ]
-      },
-      {
-        "title": "第2話",
-        "pages": [
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
-        ]
-      }
+      { "title": "第1話", "page_count": 58 },
+      { "title": "第2話", "page_count": 25 },
+      { "title": "第2話", "page_count": 24 }
     ]
   },
-   {
+  {
     "title": "Jujutsu Kaisen",
     "description": "家族を守る剣士の物語。",
     "image_url": "https://example.com/kimetsu.jpg",
@@ -54,16 +33,11 @@
       {
         "title": "第1話",
         "pages": [
-          "https://example.com/onepiece/ep_01/page_001.jpg",
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       },
       {
         "title": "第2話",
         "pages": [
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       }
     ]
@@ -76,16 +50,11 @@
       {
         "title": "第1話",
         "pages": [
-          "https://example.com/onepiece/ep_01/page_001.jpg",
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       },
       {
         "title": "第2話",
         "pages": [
-          "https://example.com/onepiece/ep_01/page_003.jpg",
-          "https://example.com/onepiece/ep_01/page_004.jpg"
         ]
       }
     ]
