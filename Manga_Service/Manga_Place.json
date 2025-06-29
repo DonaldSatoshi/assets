@@ -1,6 +1,6 @@
 [
   {
-    "title": "ワンピース",
+    "title": "One Peace",
     "description": "海賊冒険漫画の金字塔。",
     "image_url": "https://example.com/onepiece.jpg",
     "episodes": [
@@ -25,7 +25,51 @@
     ]
   },
   {
-    "title": "鬼滅の刃",
+    "title": "Sakamoto Days",
+    "description": "家族を守る剣士の物語。",
+    "image_url": "https://example.com/kimetsu.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "pages": [
+          "https://example.com/onepiece/ep_01/page_001.jpg",
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
+        ]
+      },
+      {
+        "title": "第2話",
+        "pages": [
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
+        ]
+      }
+    ]
+  },
+   {
+    "title": "Jujutsu Kaisen",
+    "description": "家族を守る剣士の物語。",
+    "image_url": "https://example.com/kimetsu.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "pages": [
+          "https://example.com/onepiece/ep_01/page_001.jpg",
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
+        ]
+      },
+      {
+        "title": "第2話",
+        "pages": [
+          "https://example.com/onepiece/ep_01/page_003.jpg",
+          "https://example.com/onepiece/ep_01/page_004.jpg"
+        ]
+      }
+    ]
+  },
+   {
+    "title": "Demon Salyer",
     "description": "家族を守る剣士の物語。",
     "image_url": "https://example.com/kimetsu.jpg",
     "episodes": [
