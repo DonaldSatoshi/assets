@@ -1,24 +1,15 @@
 [
-  {
+   {
     "title": "One Peace",
-    "description": "海賊冒険漫画の金字塔。",
-    "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Manga_Service/Manga_Image/Sakamoto_Days.jpg?raw=true",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
-      {
-        "title": "第1話",
-        "pages": [
-        ]
-      },
-      {
-        "title": "第2話",
-        "pages": [
-        ]
-      }
     ]
   },
   {
     "title": "Sakamoto Days",
-    "description": "家族を守る剣士の物語。",
+    "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
@@ -26,41 +17,28 @@
       { "title": "第2話", "page_count": 25 },
       { "title": "第3話", "page_count": 24 },
       { "title": "第4話", "page_count": 19 },
-      { "title": "第5話", "page_count": 20 }
-    ]
-  },
-  {
-    "title": "Jujutsu Kaisen",
-    "description": "家族を守る剣士の物語。",
-    "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Manga_Service/Manga_Image/Sakamoto_Days.jpg?raw=true",
-    "episodes": [
-      {
-        "title": "第1話",
-        "pages": [
-        ]
-      },
-      {
-        "title": "第2話",
-        "pages": [
-        ]
-      }
+      { "title": "第6話", "page_count": 20 },
+      { "title": "第7話", "page_count": 58 },
+      { "title": "第8話", "page_count": 25 },
+      { "title": "第9話", "page_count": 24 },
+      { "title": "第10話", "page_count": 19 },
+      { "title": "第11話", "page_count": 20 }
     ]
   },
    {
-    "title": "Demon Salyer",
-    "description": "家族を守る剣士の物語。",
-    "image_url": "https://github.com/DonaldSatoshi/assets/blob/main/Manga_Service/Manga_Image/Sakamoto_Days.jpg?raw=true",
+    "title": "Jujutsu Kaisen",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
-      {
-        "title": "第1話",
-        "pages": [
-        ]
-      },
-      {
-        "title": "第2話",
-        "pages": [
-        ]
-      }
+    ]
+  },
+  {
+    "title": "Demon Slayer",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
+    "episodes": [
     ]
   }
 ]
