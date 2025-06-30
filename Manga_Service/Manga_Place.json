@@ -1,44 +1,210 @@
 [
-   {
-    "title": "One Peace",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
-    "episodes": [
-    ]
-  },
   {
     "title": "Sakamoto Days",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakamoto_Days_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
     "episodes": [
-      { "title": "第1話", "page_count": 58 },
-      { "title": "第2話", "page_count": 25 },
-      { "title": "第3話", "page_count": 24 },
-      { "title": "第4話", "page_count": 19 },
-      { "title": "第6話", "page_count": 20 },
-      { "title": "第7話", "page_count": 58 },
-      { "title": "第8話", "page_count": 25 },
-      { "title": "第9話", "page_count": 24 },
-      { "title": "第10話", "page_count": 19 },
-      { "title": "第11話", "page_count": 20 }
-    ]
-  },
-   {
-    "title": "Jujutsu Kaisen",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
-    "episodes": [
-    ]
-  },
-  {
-    "title": "Demon Slayer",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/Manga_Image/Sakamoto_Days.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
-    "episodes": [
+      {
+        "title": "第1話",
+        "page_count": 58
+      },
+      {
+        "title": "第2話",
+        "page_count": 25
+      },
+      {
+        "title": "第3話",
+        "page_count": 24
+      },
+      {
+        "title": "第4話",
+        "page_count": 19
+      },
+      {
+        "title": "第5話",
+        "page_count": 20
+      },
+      {
+        "title": "第6話",
+        "page_count": 20
+      },
+      {
+        "title": "第7話",
+        "page_count": 22
+      },
+      {
+        "title": "第8話",
+        "page_count": 25
+      },
+      {
+        "title": "第9話",
+        "page_count": 20
+      },
+      {
+        "title": "第10話",
+        "page_count": 19
+      },
+      {
+        "title": "第11話",
+        "page_count": 22
+      },
+      {
+        "title": "第12話",
+        "page_count": 19
+      },
+      {
+        "title": "第13話",
+        "page_count": 20
+      },
+      {
+        "title": "第14話",
+        "page_count": 18
+      },
+      {
+        "title": "第15話",
+        "page_count": 21
+      },
+      {
+        "title": "第16話",
+        "page_count": 24
+      },
+      {
+        "title": "第17話",
+        "page_count": 25
+      },
+      {
+        "title": "第18話",
+        "page_count": 21
+      },
+      {
+        "title": "第19話",
+        "page_count": 19
+      },
+      {
+        "title": "第20話",
+        "page_count": 19
+      },
+      {
+        "title": "第21話",
+        "page_count": 19
+      },
+      {
+        "title": "第22話",
+        "page_count": 21
+      },
+      {
+        "title": "第23話",
+        "page_count": 20
+      },
+      {
+        "title": "第24話",
+        "page_count": 18
+      },
+      {
+        "title": "第25話",
+        "page_count": 22
+      },
+      {
+        "title": "第26話",
+        "page_count": 23
+      },
+      {
+        "title": "第27話",
+        "page_count": 22
+      },
+      {
+        "title": "第28話",
+        "page_count": 19
+      },
+      {
+        "title": "第29話",
+        "page_count": 18
+      },
+      {
+        "title": "第30話",
+        "page_count": 20
+      },
+      {
+        "title": "第31話",
+        "page_count": 20
+      },
+      {
+        "title": "第32話",
+        "page_count": 20
+      },
+      {
+        "title": "第33話",
+        "page_count": 19
+      },
+      {
+        "title": "第34話",
+        "page_count": 29
+      },
+      {
+        "title": "第35話",
+        "page_count": 28
+      },
+      {
+        "title": "第36話",
+        "page_count": 20
+      },
+      {
+        "title": "第37話",
+        "page_count": 20
+      },
+      {
+        "title": "第38話",
+        "page_count": 19
+      },
+      {
+        "title": "第39話",
+        "page_count": 20
+      },
+      {
+        "title": "第40話",
+        "page_count": 19
+      },
+      {
+        "title": "第41話",
+        "page_count": 19
+      },
+      {
+        "title": "第42話",
+        "page_count": 20
+      },
+      {
+        "title": "第43話",
+        "page_count": 21
+      },
+      {
+        "title": "第44話",
+        "page_count": 26
+      },
+      {
+        "title": "第45話",
+        "page_count": 24
+      },
+      {
+        "title": "第46話",
+        "page_count": 20
+      },
+      {
+        "title": "第47話",
+        "page_count": 19
+      },
+      {
+        "title": "第48話",
+        "page_count": 20
+      },
+      {
+        "title": "第49話",
+        "page_count": 19
+      },
+      {
+        "title": "第50話",
+        "page_count": 19
+      }
     ]
   }
 ]
