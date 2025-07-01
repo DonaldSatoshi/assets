@@ -780,13 +780,6 @@
     ]
   },
   {
-    "title": "Bleach Pdf",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_pdf.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/BLEACH_pdf/ep_%03d/page_%03d.jpg",
-    "episodes": []
-  },
-  {
     "title": "Chansaw Man",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man_jpg.jpg",
@@ -2401,13 +2394,6 @@
         "page_count": 0
       }
     ]
-  },
-  {
-    "title": "Hunter Hunter Pdf",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter_pdf.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hunter_Hunter_pdf/ep_%03d/page_%03d.jpg",
-    "episodes": []
   },
   {
     "title": "Jujutsu Kaisen",
