@@ -3,7 +3,7 @@
     "title": "Chansaw Man",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chansaw_Man_jpg/ep_%02d/page_%03d.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chansaw_Man_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -735,7 +735,7 @@
     "title": "Demon Slayer",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Demon_Slayer_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Demon_Slayer_jpg/ep_%02d/page_%03d.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Demon_Slayer_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -1567,7 +1567,7 @@
     "title": "Jujutsu Kaisen",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jujutsu_Kaisen_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jujutsu_Kaisen_jpg/ep_%02d/page_%03d.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jujutsu_Kaisen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -2655,7 +2655,7 @@
     "title": "One Peace",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/One_Peace_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/One_Peace_jpg/ep_%02d/page_%03d.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/One_Peace_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -3943,7 +3943,7 @@
     "title": "Sakamoto Days",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakamoto_Days_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%02d/page_%03d.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
