@@ -1,5 +1,873 @@
 [
   {
+    "title": "Attack On Titan",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_on_Titan_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_on_Titan_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "page_count": 53
+      },
+      {
+        "title": "第2話",
+        "page_count": 41
+      },
+      {
+        "title": "第3話",
+        "page_count": 44
+      },
+      {
+        "title": "第4話",
+        "page_count": 65
+      },
+      {
+        "title": "第5話",
+        "page_count": 39
+      },
+      {
+        "title": "第6話",
+        "page_count": 38
+      },
+      {
+        "title": "第7話",
+        "page_count": 35
+      },
+      {
+        "title": "第8話",
+        "page_count": 36
+      },
+      {
+        "title": "第9話",
+        "page_count": 40
+      },
+      {
+        "title": "第10話",
+        "page_count": 43
+      },
+      {
+        "title": "第11話",
+        "page_count": 41
+      },
+      {
+        "title": "第12話",
+        "page_count": 44
+      },
+      {
+        "title": "第13話",
+        "page_count": 25
+      },
+      {
+        "title": "第14話",
+        "page_count": 47
+      },
+      {
+        "title": "第15話",
+        "page_count": 38
+      },
+      {
+        "title": "第16話",
+        "page_count": 32
+      },
+      {
+        "title": "第17話",
+        "page_count": 34
+      },
+      {
+        "title": "第18話",
+        "page_count": 40
+      },
+      {
+        "title": "第19話",
+        "page_count": 46
+      },
+      {
+        "title": "第20話",
+        "page_count": 32
+      },
+      {
+        "title": "第21話",
+        "page_count": 40
+      },
+      {
+        "title": "第22話",
+        "page_count": 49
+      },
+      {
+        "title": "第23話",
+        "page_count": 49
+      },
+      {
+        "title": "第24話",
+        "page_count": 44
+      },
+      {
+        "title": "第25話",
+        "page_count": 44
+      },
+      {
+        "title": "第26話",
+        "page_count": 46
+      },
+      {
+        "title": "第27話",
+        "page_count": 50
+      },
+      {
+        "title": "第28話",
+        "page_count": 45
+      },
+      {
+        "title": "第29話",
+        "page_count": 41
+      },
+      {
+        "title": "第30話",
+        "page_count": 48
+      },
+      {
+        "title": "第31話",
+        "page_count": 50
+      },
+      {
+        "title": "第32話",
+        "page_count": 44
+      },
+      {
+        "title": "第33話",
+        "page_count": 45
+      },
+      {
+        "title": "第34話",
+        "page_count": 48
+      },
+      {
+        "title": "第35話",
+        "page_count": 49
+      },
+      {
+        "title": "第36話",
+        "page_count": 46
+      },
+      {
+        "title": "第37話",
+        "page_count": 45
+      },
+      {
+        "title": "第38話",
+        "page_count": 48
+      },
+      {
+        "title": "第39話",
+        "page_count": 50
+      },
+      {
+        "title": "第40話",
+        "page_count": 45
+      },
+      {
+        "title": "第41話",
+        "page_count": 45
+      },
+      {
+        "title": "第42話",
+        "page_count": 46
+      },
+      {
+        "title": "第43話",
+        "page_count": 44
+      },
+      {
+        "title": "第44話",
+        "page_count": 45
+      },
+      {
+        "title": "第45話",
+        "page_count": 45
+      },
+      {
+        "title": "第46話",
+        "page_count": 50
+      },
+      {
+        "title": "第47話",
+        "page_count": 48
+      },
+      {
+        "title": "第48話",
+        "page_count": 46
+      },
+      {
+        "title": "第49話",
+        "page_count": 44
+      },
+      {
+        "title": "第50話",
+        "page_count": 50
+      },
+      {
+        "title": "第51話",
+        "page_count": 55
+      },
+      {
+        "title": "第52話",
+        "page_count": 46
+      },
+      {
+        "title": "第53話",
+        "page_count": 46
+      },
+      {
+        "title": "第54話",
+        "page_count": 44
+      },
+      {
+        "title": "第55話",
+        "page_count": 51
+      },
+      {
+        "title": "第56話",
+        "page_count": 46
+      },
+      {
+        "title": "第57話",
+        "page_count": 50
+      },
+      {
+        "title": "第58話",
+        "page_count": 51
+      },
+      {
+        "title": "第59話",
+        "page_count": 46
+      },
+      {
+        "title": "第60話",
+        "page_count": 46
+      },
+      {
+        "title": "第61話",
+        "page_count": 44
+      },
+      {
+        "title": "第62話",
+        "page_count": 47
+      },
+      {
+        "title": "第63話",
+        "page_count": 46
+      },
+      {
+        "title": "第64話",
+        "page_count": 45
+      },
+      {
+        "title": "第65話",
+        "page_count": 43
+      },
+      {
+        "title": "第66話",
+        "page_count": 48
+      },
+      {
+        "title": "第67話",
+        "page_count": 41
+      },
+      {
+        "title": "第68話",
+        "page_count": 46
+      },
+      {
+        "title": "第69話",
+        "page_count": 48
+      },
+      {
+        "title": "第70話",
+        "page_count": 51
+      },
+      {
+        "title": "第71話",
+        "page_count": 45
+      },
+      {
+        "title": "第72話",
+        "page_count": 42
+      },
+      {
+        "title": "第73話",
+        "page_count": 46
+      },
+      {
+        "title": "第74話",
+        "page_count": 49
+      },
+      {
+        "title": "第75話",
+        "page_count": 45
+      },
+      {
+        "title": "第76話",
+        "page_count": 46
+      },
+      {
+        "title": "第77話",
+        "page_count": 47
+      },
+      {
+        "title": "第78話",
+        "page_count": 46
+      },
+      {
+        "title": "第79話",
+        "page_count": 46
+      },
+      {
+        "title": "第80話",
+        "page_count": 45
+      },
+      {
+        "title": "第81話",
+        "page_count": 45
+      },
+      {
+        "title": "第82話",
+        "page_count": 50
+      },
+      {
+        "title": "第83話",
+        "page_count": 46
+      },
+      {
+        "title": "第84話",
+        "page_count": 45
+      },
+      {
+        "title": "第85話",
+        "page_count": 47
+      },
+      {
+        "title": "第86話",
+        "page_count": 50
+      },
+      {
+        "title": "第87話",
+        "page_count": 46
+      },
+      {
+        "title": "第88話",
+        "page_count": 46
+      },
+      {
+        "title": "第89話",
+        "page_count": 46
+      },
+      {
+        "title": "第90話",
+        "page_count": 47
+      },
+      {
+        "title": "第91話",
+        "page_count": 41
+      },
+      {
+        "title": "第92話",
+        "page_count": 46
+      },
+      {
+        "title": "第93話",
+        "page_count": 47
+      },
+      {
+        "title": "第94話",
+        "page_count": 45
+      },
+      {
+        "title": "第95話",
+        "page_count": 43
+      },
+      {
+        "title": "第96話",
+        "page_count": 46
+      },
+      {
+        "title": "第97話",
+        "page_count": 49
+      },
+      {
+        "title": "第98話",
+        "page_count": 50
+      },
+      {
+        "title": "第99話",
+        "page_count": 42
+      },
+      {
+        "title": "第100話",
+        "page_count": 41
+      },
+      {
+        "title": "第101話",
+        "page_count": 48
+      },
+      {
+        "title": "第102話",
+        "page_count": 46
+      },
+      {
+        "title": "第103話",
+        "page_count": 45
+      },
+      {
+        "title": "第104話",
+        "page_count": 46
+      },
+      {
+        "title": "第105話",
+        "page_count": 46
+      },
+      {
+        "title": "第106話",
+        "page_count": 46
+      },
+      {
+        "title": "第107話",
+        "page_count": 46
+      },
+      {
+        "title": "第108話",
+        "page_count": 46
+      },
+      {
+        "title": "第109話",
+        "page_count": 46
+      },
+      {
+        "title": "第110話",
+        "page_count": 46
+      },
+      {
+        "title": "第111話",
+        "page_count": 45
+      },
+      {
+        "title": "第112話",
+        "page_count": 46
+      },
+      {
+        "title": "第113話",
+        "page_count": 45
+      },
+      {
+        "title": "第114話",
+        "page_count": 46
+      },
+      {
+        "title": "第115話",
+        "page_count": 47
+      },
+      {
+        "title": "第116話",
+        "page_count": 46
+      },
+      {
+        "title": "第117話",
+        "page_count": 46
+      },
+      {
+        "title": "第118話",
+        "page_count": 44
+      },
+      {
+        "title": "第119話",
+        "page_count": 44
+      },
+      {
+        "title": "第120話",
+        "page_count": 45
+      },
+      {
+        "title": "第121話",
+        "page_count": 40
+      },
+      {
+        "title": "第122話",
+        "page_count": 43
+      },
+      {
+        "title": "第123話",
+        "page_count": 47
+      },
+      {
+        "title": "第124話",
+        "page_count": 46
+      },
+      {
+        "title": "第125話",
+        "page_count": 46
+      },
+      {
+        "title": "第126話",
+        "page_count": 44
+      },
+      {
+        "title": "第127話",
+        "page_count": 45
+      },
+      {
+        "title": "第128話",
+        "page_count": 46
+      },
+      {
+        "title": "第129話",
+        "page_count": 39
+      },
+      {
+        "title": "第130話",
+        "page_count": 36
+      },
+      {
+        "title": "第131話",
+        "page_count": 44
+      },
+      {
+        "title": "第132話",
+        "page_count": 44
+      },
+      {
+        "title": "第133話",
+        "page_count": 42
+      },
+      {
+        "title": "第134話",
+        "page_count": 44
+      },
+      {
+        "title": "第135話",
+        "page_count": 46
+      },
+      {
+        "title": "第136話",
+        "page_count": 45
+      },
+      {
+        "title": "第137話",
+        "page_count": 47
+      },
+      {
+        "title": "第138話",
+        "page_count": 49
+      }
+    ]
+  },
+  {
+    "title": "Bleach",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/BLEACH_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "page_count": 190
+      },
+      {
+        "title": "第2話",
+        "page_count": 0
+      },
+      {
+        "title": "第3話",
+        "page_count": 0
+      },
+      {
+        "title": "第4話",
+        "page_count": 0
+      },
+      {
+        "title": "第5話",
+        "page_count": 0
+      },
+      {
+        "title": "第6話",
+        "page_count": 0
+      },
+      {
+        "title": "第7話",
+        "page_count": 0
+      },
+      {
+        "title": "第8話",
+        "page_count": 0
+      },
+      {
+        "title": "第9話",
+        "page_count": 0
+      },
+      {
+        "title": "第10話",
+        "page_count": 0
+      },
+      {
+        "title": "第11話",
+        "page_count": 0
+      },
+      {
+        "title": "第12話",
+        "page_count": 0
+      },
+      {
+        "title": "第13話",
+        "page_count": 0
+      },
+      {
+        "title": "第14話",
+        "page_count": 0
+      },
+      {
+        "title": "第15話",
+        "page_count": 0
+      },
+      {
+        "title": "第16話",
+        "page_count": 0
+      },
+      {
+        "title": "第17話",
+        "page_count": 0
+      },
+      {
+        "title": "第18話",
+        "page_count": 0
+      },
+      {
+        "title": "第19話",
+        "page_count": 0
+      },
+      {
+        "title": "第20話",
+        "page_count": 0
+      },
+      {
+        "title": "第21話",
+        "page_count": 0
+      },
+      {
+        "title": "第22話",
+        "page_count": 0
+      },
+      {
+        "title": "第23話",
+        "page_count": 0
+      },
+      {
+        "title": "第24話",
+        "page_count": 0
+      },
+      {
+        "title": "第25話",
+        "page_count": 0
+      },
+      {
+        "title": "第26話",
+        "page_count": 0
+      },
+      {
+        "title": "第27話",
+        "page_count": 0
+      },
+      {
+        "title": "第28話",
+        "page_count": 0
+      },
+      {
+        "title": "第29話",
+        "page_count": 0
+      },
+      {
+        "title": "第30話",
+        "page_count": 0
+      },
+      {
+        "title": "第31話",
+        "page_count": 0
+      },
+      {
+        "title": "第32話",
+        "page_count": 0
+      },
+      {
+        "title": "第33話",
+        "page_count": 0
+      },
+      {
+        "title": "第34話",
+        "page_count": 0
+      },
+      {
+        "title": "第35話",
+        "page_count": 0
+      },
+      {
+        "title": "第36話",
+        "page_count": 194
+      },
+      {
+        "title": "第37話",
+        "page_count": 205
+      },
+      {
+        "title": "第38話",
+        "page_count": 191
+      },
+      {
+        "title": "第39話",
+        "page_count": 185
+      },
+      {
+        "title": "第40話",
+        "page_count": 182
+      },
+      {
+        "title": "第41話",
+        "page_count": 184
+      },
+      {
+        "title": "第42話",
+        "page_count": 179
+      },
+      {
+        "title": "第43話",
+        "page_count": 198
+      },
+      {
+        "title": "第44話",
+        "page_count": 184
+      },
+      {
+        "title": "第45話",
+        "page_count": 181
+      },
+      {
+        "title": "第46話",
+        "page_count": 184
+      },
+      {
+        "title": "第47話",
+        "page_count": 189
+      },
+      {
+        "title": "第48話",
+        "page_count": 204
+      },
+      {
+        "title": "第49話",
+        "page_count": 190
+      },
+      {
+        "title": "第50話",
+        "page_count": 188
+      },
+      {
+        "title": "第51話",
+        "page_count": 191
+      },
+      {
+        "title": "第52話",
+        "page_count": 187
+      },
+      {
+        "title": "第53話",
+        "page_count": 206
+      },
+      {
+        "title": "第54話",
+        "page_count": 204
+      },
+      {
+        "title": "第55話",
+        "page_count": 193
+      },
+      {
+        "title": "第56話",
+        "page_count": 187
+      },
+      {
+        "title": "第57話",
+        "page_count": 182
+      },
+      {
+        "title": "第58話",
+        "page_count": 200
+      },
+      {
+        "title": "第59話",
+        "page_count": 188
+      },
+      {
+        "title": "第60話",
+        "page_count": 185
+      },
+      {
+        "title": "第61話",
+        "page_count": 183
+      },
+      {
+        "title": "第62話",
+        "page_count": 185
+      },
+      {
+        "title": "第63話",
+        "page_count": 182
+      },
+      {
+        "title": "第64話",
+        "page_count": 185
+      },
+      {
+        "title": "第65話",
+        "page_count": 204
+      },
+      {
+        "title": "第66話",
+        "page_count": 182
+      },
+      {
+        "title": "第67話",
+        "page_count": 181
+      },
+      {
+        "title": "第68話",
+        "page_count": 198
+      },
+      {
+        "title": "第69話",
+        "page_count": 183
+      },
+      {
+        "title": "第70話",
+        "page_count": 195
+      },
+      {
+        "title": "第71話",
+        "page_count": 181
+      },
+      {
+        "title": "第72話",
+        "page_count": 201
+      },
+      {
+        "title": "第73話",
+        "page_count": 196
+      },
+      {
+        "title": "第74話",
+        "page_count": 220
+      },
+      {
+        "title": "第75話",
+        "page_count": 71
+      }
+    ]
+  },
+  {
     "title": "Chansaw Man",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man_jpg.jpg",
@@ -1564,6 +2432,20 @@
     ]
   },
   {
+    "title": "Hunter Hunter",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hunter_Hunter_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": []
+  },
+  {
+    "title": "Hunter Hunter Pdf",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter_pdf.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hunter_Hunter_pdf/ep_%03d/page_%03d.jpg",
+    "episodes": []
+  },
+  {
     "title": "Jujutsu Kaisen",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jujutsu_Kaisen_jpg.jpg",
@@ -2650,6 +3532,65 @@
         "page_count": 22
       }
     ]
+  },
+  {
+    "title": "Naruto",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/NARUTO_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/NARUTO_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "第1話",
+        "page_count": 188
+      },
+      {
+        "title": "第2話",
+        "page_count": 206
+      },
+      {
+        "title": "第3話",
+        "page_count": 206
+      },
+      {
+        "title": "第4話",
+        "page_count": 180
+      },
+      {
+        "title": "第5話",
+        "page_count": 182
+      },
+      {
+        "title": "第6話",
+        "page_count": 183
+      },
+      {
+        "title": "第7話",
+        "page_count": 188
+      },
+      {
+        "title": "第8話",
+        "page_count": 184
+      },
+      {
+        "title": "第9話",
+        "page_count": 182
+      },
+      {
+        "title": "第10話",
+        "page_count": 176
+      },
+      {
+        "title": "第11話",
+        "page_count": 0
+      }
+    ]
+  },
+  {
+    "title": "Naruto Pdf",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/NARUTO_pdf.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/NARUTO_pdf/ep_%03d/page_%03d.jpg",
+    "episodes": []
   },
   {
     "title": "One Peace",
