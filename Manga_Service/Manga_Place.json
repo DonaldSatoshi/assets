@@ -2,8 +2,8 @@
   {
     "title": "Attack On Titan",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_On_Titan_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_On_Titan_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_on_Titan_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_on_Titan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -562,8 +562,8 @@
   {
     "title": "Bleach",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Bleach_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Bleach_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/BLEACH_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -3558,8 +3558,8 @@
   {
     "title": "Naruto",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Naruto_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Naruto_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/NARUTO_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/NARUTO_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
