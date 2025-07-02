@@ -2,8 +2,8 @@
   {
     "title": "Attack On Titan",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_on_Titan_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_on_Titan_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_On_Titan.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_On_Titan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -562,8 +562,8 @@
   {
     "title": "Bleach",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/BLEACH_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Bleach.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Bleach_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -782,7 +782,7 @@
   {
     "title": "Chansaw Man",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chansaw_Man_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
@@ -1514,7 +1514,7 @@
   {
     "title": "Demon Slayer",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Demon_Slayer_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Demon_Slayer.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Demon_Slayer_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
@@ -2346,59 +2346,47 @@
   {
     "title": "Hunter Hunter",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hunter_Hunter_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
-        "page_count": 160
-      },
-      {
-        "title": "第2話",
-        "page_count": 0
-      },
-      {
-        "title": "第3話",
-        "page_count": 0
-      },
-      {
-        "title": "第4話",
-        "page_count": 0
+        "page_count": 181
       },
       {
         "title": "第5話",
         "page_count": 181
       },
       {
-        "title": "第6話",
-        "page_count": 0
-      },
-      {
         "title": "第7話",
-        "page_count": 0
+        "page_count": 186
       },
       {
-        "title": "第8話",
-        "page_count": 0
+        "title": "第12話",
+        "page_count": 184
       },
       {
-        "title": "第9話",
-        "page_count": 0
+        "title": "第13話",
+        "page_count": 195
       },
       {
-        "title": "第10話",
-        "page_count": 0
+        "title": "第14話",
+        "page_count": 201
       },
       {
-        "title": "第11話",
-        "page_count": 0
+        "title": "第15話",
+        "page_count": 195
+      },
+      {
+        "title": "第16話",
+        "page_count": 51
       }
     ]
   },
   {
     "title": "Jujutsu Kaisen",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jujutsu_Kaisen_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jujutsu_Kaisen.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jujutsu_Kaisen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
@@ -3486,16 +3474,40 @@
   {
     "title": "My Hero Academia",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_Hero_Academia_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_Hero_Academia.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/My_Hero_Academia_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
+        "title": "第1話",
+        "page_count": 466
+      },
+      {
+        "title": "第2話",
+        "page_count": 384
+      },
+      {
+        "title": "第3話",
+        "page_count": 395
+      },
+      {
+        "title": "第4話",
+        "page_count": 405
+      },
+      {
+        "title": "第5話",
+        "page_count": 407
+      },
+      {
+        "title": "第6話",
+        "page_count": 373
+      },
+      {
         "title": "第7話",
-        "page_count": 0
+        "page_count": 398
       },
       {
         "title": "第8話",
-        "page_count": 0
+        "page_count": 358
       },
       {
         "title": "第9話",
@@ -3503,19 +3515,51 @@
       },
       {
         "title": "第10話",
-        "page_count": 0
+        "page_count": 359
       },
       {
         "title": "第11話",
         "page_count": 297
+      },
+      {
+        "title": "第12話",
+        "page_count": 326
+      },
+      {
+        "title": "第13話",
+        "page_count": 382
+      },
+      {
+        "title": "第14話",
+        "page_count": 378
+      },
+      {
+        "title": "第15話",
+        "page_count": 372
+      },
+      {
+        "title": "第16話",
+        "page_count": 367
+      },
+      {
+        "title": "第17話",
+        "page_count": 272
+      },
+      {
+        "title": "第18話",
+        "page_count": 386
+      },
+      {
+        "title": "第19話",
+        "page_count": 118
       }
     ]
   },
   {
     "title": "Naruto",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/NARUTO_jpg.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/NARUTO_jpg/ep_%03d/page_%03d.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Naruto.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Naruto_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
         "title": "第1話",
@@ -3636,26 +3680,6 @@
       {
         "title": "第30話",
         "page_count": 181
-      },
-      {
-        "title": "第31話",
-        "page_count": 0
-      },
-      {
-        "title": "第32話",
-        "page_count": 0
-      },
-      {
-        "title": "第33話",
-        "page_count": 0
-      },
-      {
-        "title": "第34話",
-        "page_count": 0
-      },
-      {
-        "title": "第35話",
-        "page_count": 0
       },
       {
         "title": "第36話",
@@ -3810,7 +3834,7 @@
   {
     "title": "One Peace",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/One_Peace_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/One_Peace.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/One_Peace_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
@@ -5098,7 +5122,7 @@
   {
     "title": "Sakamoto Days",
     "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakamoto_Days_jpg.jpg",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakamoto_Days.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
