@@ -5342,10 +5342,6 @@
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dragon_Ball_Super_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
       {
-        "title": "第0話",
-        "page_count": 19
-      },
-      {
         "title": "第1話",
         "page_count": 16
       },
