@@ -4312,18 +4312,6 @@
     ]
   },
   {
-    "title": "Black Lagoon2",
-    "description": "",
-    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Black_Lagoon_jpg2.jpg",
-    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Black_Lagoon_jpg2/ep_%03d/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 0",
-        "page_count": 71
-      }
-    ]
-  },
-  {
     "title": "Bleach",
     "description": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_jpg.jpg",
