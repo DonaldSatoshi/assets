@@ -11278,5 +11278,1645 @@
         "page_count": 16
       }
     ]
+  },
+  {
+    "title": "Delicious In Dungeon",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Delicious_in_Dungeon_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Delicious_in_Dungeon_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 0",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 1",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 42
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 54
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 2
+      }
+    ]
+  },
+  {
+    "title": "Eizouken Ni Wa Te Wo Dasuna",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Eizouken_ni_wa_te_wo_dasuna_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Eizouken_ni_wa_te_wo_dasuna_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 21
+      }
+    ]
+  },
+  {
+    "title": "Sousou No Frieren",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sousou_no_Frieren_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sousou_no_Frieren_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 116",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 117",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 118",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 119",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 120",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 121",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 122",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 123",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 124",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 125",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 126",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 127",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 128",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 129",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 130",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 131",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 132",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 133",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 134",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 135",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 136",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 137",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 138",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 139",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 140",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 141",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 142",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Tengoku Daimakyou",
+    "description": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tengoku_Daimakyou_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tengoku_Daimakyou_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 28
+      }
+    ]
   }
 ]
