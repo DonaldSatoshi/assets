@@ -2,6 +2,7 @@
   {
     "title": "10 Nenkan Tomodachida To Omotteta Otokonoko Ni Kokuhaku Sareru Ohanashi",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/10_Nenkan_Tomodachida_to_Omotteta_Otokonoko_ni_Kokuhaku_Sareru_Ohanashi_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/10_Nenkan_Tomodachida_to_Omotteta_Otokonoko_ni_Kokuhaku_Sareru_Ohanashi_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -18,6 +19,7 @@
   {
     "title": "20Th Century Boys",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/20th_Century_Boys_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/20th_Century_Boys_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -1110,6 +1112,7 @@
   {
     "title": "7 Nin No Nemuri Hime",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/7_nin_no_Nemuri_Hime_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/7_nin_no_Nemuri_Hime_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -1154,6 +1157,7 @@
   {
     "title": "A Parallel World With A 1 39 Male To Female Ratio Is Unexpectedly Normal",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/A_Parallel_World_With_a_1_39_Male_to_Female_Ratio_Is_Unexpectedly_Normal_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/A_Parallel_World_With_a_1_39_Male_to_Female_Ratio_Is_Unexpectedly_Normal_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -1728,8 +1732,234 @@
     ]
   },
   {
+    "title": "A Story About Smoking At The Back Of The Supermarket",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/A_Story_About_Smoking_at_The_Back_of_The_Supermarket_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/A_Story_About_Smoking_at_The_Back_of_The_Supermarket_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 46
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 43
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 35
+      }
+    ]
+  },
+  {
     "title": "Ajin",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ajin_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ajin_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -1778,6 +2008,7 @@
   {
     "title": "Akazukin Ni Taberareta Okami",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Akazukin_ni_Taberareta_Okami_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Akazukin_ni_Taberareta_Okami_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -1806,6 +2037,7 @@
   {
     "title": "And Yet The Town Moves",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/And_Yet_The_Town_Moves_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/And_Yet_The_Town_Moves_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -2404,8 +2636,34 @@
     ]
   },
   {
+    "title": "Another World In Japan",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Another_World_in_Japan_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Another_World_in_Japan_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 61
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 14
+      }
+    ]
+  },
+  {
     "title": "Ao No Hako",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ao_no_Hako_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ao_no_Hako_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -3230,6 +3488,7 @@
   {
     "title": "Assassination Classroom",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Assassination_Classroom_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Assassination_Classroom_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4042,6 +4301,7 @@
   {
     "title": "Attack On Titan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Attack_on_Titan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Attack_on_Titan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4600,8 +4860,326 @@
     ]
   },
   {
+    "title": "Awkward Senpai",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Awkward_Senpai_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Awkward_Senpai_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 17
+      }
+    ]
+  },
+  {
     "title": "Azumanga Daioh",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Azumanga_Daioh_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Azumanga_Daioh_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4670,6 +5248,7 @@
   {
     "title": "Azure Wants To Turn Me Into The Ideal Bf",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Azure_Wants_to_Turn_Me_Into_The_Ideal_BF_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Azure_Wants_to_Turn_Me_Into_The_Ideal_BF_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4710,6 +5289,7 @@
   {
     "title": "Baki Rahen",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Baki_Rahen_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Baki_Rahen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4742,6 +5322,7 @@
   {
     "title": "Bakuman",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Bakuman_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Bakuman_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -4830,6 +5411,7 @@
   {
     "title": "Baroness Goes On Strike",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Baroness_Goes_On_Strike_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Baroness_Goes_On_Strike_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -5378,6 +5960,7 @@
   {
     "title": "Beelzebub",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Beelzebub_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Beelzebub_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -5502,6 +6085,7 @@
   {
     "title": "Berserk",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Berserk_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Berserk_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -5566,6 +6150,7 @@
   {
     "title": "Black Clover",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Black_Clover_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Black_Clover_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -7066,6 +7651,7 @@
   {
     "title": "Black Lagoon",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Black_Lagoon_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Black_Lagoon_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -7462,6 +8048,7 @@
   {
     "title": "Bleach",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/BLEACH_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/BLEACH_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -7690,6 +8277,7 @@
   {
     "title": "Blue Giant",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Blue_Giant_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Blue_Giant_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -8050,6 +8638,7 @@
   {
     "title": "Blue Rock",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Blue_Rock_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Blue_Rock_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -9174,6 +9763,7 @@
   {
     "title": "Bocchi The Rock",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Bocchi_The_Rock_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Bocchi_The_Rock_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -9566,6 +10156,7 @@
   {
     "title": "Bokurano",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Bokurano_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Bokurano_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -9614,6 +10205,7 @@
   {
     "title": "Captain Tsubasa",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Captain_Tsubasa_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Captain_Tsubasa_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -10222,6 +10814,7 @@
   {
     "title": "Cardcaptor Sakura",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Cardcaptor_Sakura_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Cardcaptor_Sakura_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -10478,6 +11071,7 @@
   {
     "title": "Chansaw Man",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chansaw_Man_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chansaw_Man_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -11210,6 +11804,7 @@
   {
     "title": "Chi Chikyuu No Undou Ni Tsuite",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chi_chikyuu_no_Undou_ni_Tsuite_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chi_chikyuu_no_Undou_ni_Tsuite_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -11498,6 +12093,7 @@
   {
     "title": "Chiikawa",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chiikawa_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chiikawa_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -11914,6 +12510,7 @@
   {
     "title": "Chuuka Ichiban",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Chuuka_Ichiban_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Chuuka_Ichiban_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -11942,6 +12539,7 @@
   {
     "title": "City",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/CITY_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/CITY_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -12754,6 +13352,7 @@
   {
     "title": "Creyon Shin Chan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Creyon_Shin_Chan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Creyon_Shin_Chan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -12778,6 +13377,7 @@
   {
     "title": "Dandadan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dandadan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dandadan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -13234,6 +13834,7 @@
   {
     "title": "Darling Why Cant We Divorce",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Darling_why_Cant_We_Divorce_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Darling_why_Cant_We_Divorce_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -13442,6 +14043,7 @@
   {
     "title": "Death Note",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Death_Note_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Death_Note_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -13878,6 +14480,7 @@
   {
     "title": "Delicious In Dungeon",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Delicious_in_Dungeon_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Delicious_in_Dungeon_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -14350,6 +14953,7 @@
   {
     "title": "Demon Slayer",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Demon_Slayer_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Demon_Slayer_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -15182,6 +15786,7 @@
   {
     "title": "Detective Conan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Detective_Conan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Detective_Conan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -19186,6 +19791,7 @@
   {
     "title": "Diamond No Ace",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Diamond_no_Ace_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Diamond_no_Ace_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -20978,6 +21584,7 @@
   {
     "title": "Divine Delivery",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Divine_Delivery_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Divine_Delivery_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -21262,6 +21869,7 @@
   {
     "title": "Divorcie Se De Mim Marido",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Divorcie_se_de_mim_Marido_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Divorcie_se_de_mim_Marido_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -21606,6 +22214,7 @@
   {
     "title": "Doraemon",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Doraemon_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Doraemon_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -21688,8 +22297,518 @@
     ]
   },
   {
+    "title": "Dosanko Gyaru Is Mega Cute",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dosanko_Gyaru_is_Mega_Cute_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dosanko_Gyaru_is_Mega_Cute_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 116",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 117",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 118",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 119",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 120",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 121",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 122",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 123",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 124",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 125",
+        "page_count": 25
+      }
+    ]
+  },
+  {
     "title": "Dr Stone",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dr_Stone_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dr_Stone_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -22646,6 +23765,7 @@
   {
     "title": "Dragon Ball Super",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dragon_Ball_Super_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dragon_Ball_Super_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23066,6 +24186,7 @@
   {
     "title": "Drifters",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Drifters_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Drifters_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23152,8 +24273,328 @@
     ]
   },
   {
+    "title": "Drop",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Drop_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Drop_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 59
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 61
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 47
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 46
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 47
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 51
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 46
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 52
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Nursery",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dungeon_Nursery_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dungeon_Nursery_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 16
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Sherpa Meikyuu Michisaki",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Dungeon_Sherpa_Meikyuu_Michisaki_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Dungeon_Sherpa_Meikyuu_Michisaki_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 44
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 42
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 42
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 43
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 44
+      }
+    ]
+  },
+  {
     "title": "Eizouken Ni Wa Te Wo Dasuna",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Eizouken_ni_wa_te_wo_dasuna_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Eizouken_ni_wa_te_wo_dasuna_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23438,6 +24879,7 @@
   {
     "title": "Enen No Shouboutai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Enen_no_Shouboutai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Enen_no_Shouboutai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23546,6 +24988,7 @@
   {
     "title": "Eren The Southpaw",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Eren_The_Southpaw_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Eren_The_Southpaw_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23570,6 +25013,7 @@
   {
     "title": "Eternally-Regressing-Knight",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Eternally-Regressing-Knight_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Eternally-Regressing-Knight_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -23842,6 +25286,7 @@
   {
     "title": "Evangelion",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Evangelion_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Evangelion_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -24258,6 +25703,7 @@
   {
     "title": "Even The Captain Knight Miss Elf Wants To Be A Maiden",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Even_The_Captain_Knight_Miss_Elf_Wants_to_be_a_Maiden_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Even_The_Captain_Knight_Miss_Elf_Wants_to_be_a_Maiden_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -24426,6 +25872,7 @@
   {
     "title": "Eyeshield 21",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Eyeshield_21_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Eyeshield_21_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -24624,8 +26071,98 @@
     ]
   },
   {
+    "title": "Fantasy Bishoujo Juniku Ojisan To",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Fantasy_Bishoujo_Juniku_Ojisan_to_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Fantasy_Bishoujo_Juniku_Ojisan_to_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 131",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 163",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 164",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 165",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 166",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 167",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 200",
+        "page_count": 14
+      }
+    ]
+  },
+  {
     "title": "Flying Witch",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Flying_Witch_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Flying_Witch_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -25006,6 +26543,7 @@
   {
     "title": "Futari Solo Camp",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Futari_Solo_Camp_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Futari_Solo_Camp_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -25050,6 +26588,7 @@
   {
     "title": "Gachiakuta",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Gachiakuta_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Gachiakuta_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -25662,6 +27201,7 @@
   {
     "title": "Gantz",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Gantz_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Gantz_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -27306,6 +28846,7 @@
   {
     "title": "Ghost In The Shell",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ghost_in_the_Shell_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ghost_in_the_Shell_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -27482,6 +29023,7 @@
   {
     "title": "Girlfriend Lee Sang",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Girlfriend_Lee_Sang_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Girlfriend_Lee_Sang_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -27550,6 +29092,7 @@
   {
     "title": "Gokushufudou The Way Of The House Husband",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Gokushufudou_The_Way_of_the_House_Husband_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Gokushufudou_The_Way_of_the_House_Husband_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -27998,6 +29541,7 @@
   {
     "title": "Golden Kamuy",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Golden_Kamuy_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Golden_Kamuy_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -29314,6 +30858,7 @@
   {
     "title": "Golgo 13",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Golgo_13_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Golgo_13_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -29482,6 +31027,7 @@
   {
     "title": "Grappler Baki",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Grappler_Baki_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Grappler_Baki_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -29658,6 +31204,7 @@
   {
     "title": "Gto",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/GTO_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/GTO_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -29766,6 +31313,7 @@
   {
     "title": "Hadashi No Gen",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hadashi_no_Gen_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hadashi_no_Gen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -29814,6 +31362,7 @@
   {
     "title": "Hagane No Rennkinjutsushi",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hagane_no_Rennkinjutsushi_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hagane_no_Rennkinjutsushi_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -30362,6 +31911,7 @@
   {
     "title": "Haikyuu",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Haikyuu_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Haikyuu_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32162,6 +33712,7 @@
   {
     "title": "Hanma Baki",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hanma_Baki_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hanma_Baki_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32310,6 +33861,7 @@
   {
     "title": "Hataraku Maou Sama",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hataraku_Maou_Sama_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hataraku_Maou_Sama_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32790,6 +34342,7 @@
   {
     "title": "Hellsing",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/HELLSING_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/HELLSING_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32838,6 +34391,7 @@
   {
     "title": "Henkyo Mob Kizoku No Uchi Ni Totsuidekita Akuyaku Reijo Ga Mechakucha Dekiru Yoi Yome Nandaga",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Henkyo_Mob_Kizoku_no_Uchi_ni_Totsuidekita_Akuyaku_Reijo_ga_Mechakucha_Dekiru_Yoi_Yome_Nandaga_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Henkyo_Mob_Kizoku_no_Uchi_ni_Totsuidekita_Akuyaku_Reijo_ga_Mechakucha_Dekiru_Yoi_Yome_Nandaga_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32854,6 +34408,7 @@
   {
     "title": "Higanjima",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Higanjima_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Higanjima_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -32994,6 +34549,7 @@
   {
     "title": "Highschool Of The Dead",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Highschool_of_the_Dead_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Highschool_of_the_Dead_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -33034,6 +34590,7 @@
   {
     "title": "Hikaru No Go",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hikaru_no_Go_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hikaru_no_Go_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -33890,6 +35447,7 @@
   {
     "title": "Himouto Umaru Chan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Himouto_Umaru_Chan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Himouto_Umaru_Chan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -34818,6 +36376,7 @@
   {
     "title": "Hokuto No Ken",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hokuto_no_Ken_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hokuto_no_Ken_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35214,6 +36773,7 @@
   {
     "title": "How Heavy Are The Dumbbells You Lift",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/How_Heavy_Are_The_Dumbbells_You_Lift_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/How_Heavy_Are_The_Dumbbells_You_Lift_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35306,6 +36866,7 @@
   {
     "title": "Hunter Hunter",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Hunter_Hunter_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Hunter_Hunter_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35346,6 +36907,7 @@
   {
     "title": "I M An Isekai Master",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/I_m_an_Isekai_Master_jpg_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/I_m_an_Isekai_Master_jpg_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35358,6 +36920,7 @@
   {
     "title": "I Will Raise This Family To Greatness",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/I_Will_Raise_This_Family_to_Greatness_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/I_Will_Raise_This_Family_to_Greatness_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35506,6 +37069,7 @@
   {
     "title": "Ika Musume",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ika_Musume_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ika_Musume_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35600,8 +37164,94 @@
     ]
   },
   {
+    "title": "Isekai Ojisan",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Isekai_Ojisan_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Isekai_Ojisan_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 41
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 43
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 42
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 27
+      }
+    ]
+  },
+  {
     "title": "Issak",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Issak_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Issak_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -35766,6 +37416,7 @@
   {
     "title": "Jibaku Shounen Hanako Kun",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jibaku_Shounen_Hanako_kun_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jibaku_Shounen_Hanako_kun_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -36338,6 +37989,7 @@
   {
     "title": "Jigokuraku",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jigokuraku_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jigokuraku_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -36858,6 +38510,7 @@
   {
     "title": "Jin",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/jin_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/jin_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -36894,6 +38547,7 @@
   {
     "title": "Jojo The Steel Ball Run",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/JoJo_The_Steel_Ball_Run_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/JoJo_The_Steel_Ball_Run_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -36998,6 +38652,7 @@
   {
     "title": "Jujutsu Kaisen",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Jujutsu_Kaisen_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Jujutsu_Kaisen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -38086,6 +39741,7 @@
   {
     "title": "Kaguya Sama Wa Kokurasetai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kaguya_sama_wa_Kokurasetai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kaguya_sama_wa_Kokurasetai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -39330,6 +40986,7 @@
   {
     "title": "Kaiju No 8",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kaiju_No_8_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kaiju_No_8_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -39670,6 +41327,7 @@
   {
     "title": "Kanojo No Sore Ni Yarareteru",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kanojo_no_Sore_ni_Yarareteru_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kanojo_no_Sore_ni_Yarareteru_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -39690,6 +41348,7 @@
   {
     "title": "Kanojo Okarishimasu",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kanojo_Okarishimasu_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kanojo_Okarishimasu_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -41014,6 +42673,7 @@
   {
     "title": "Kaoru Hana Wa Rin To Saku",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kaoru_Hana_wa_Rin_to_Saku_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kaoru_Hana_wa_Rin_to_Saku_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -41570,6 +43230,7 @@
   {
     "title": "Karakai Jouzu No Moto Takagisan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Karakai_jouzu_no_moto_Takagisan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Karakai_jouzu_no_moto_Takagisan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -42834,6 +44495,7 @@
   {
     "title": "Karakai Jouzu No Takagisan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Karakai_jouzu_no_Takagisan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Karakai_jouzu_no_Takagisan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -43526,6 +45188,7 @@
   {
     "title": "Kekkai Sensen",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kekkai_Sensen_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kekkai_Sensen_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -43666,6 +45329,7 @@
   {
     "title": "Kenka Shoubai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kenka_Shoubai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kenka_Shoubai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -43690,6 +45354,7 @@
   {
     "title": "Keroro Gunsou",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Keroro_Gunsou_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Keroro_Gunsou_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -43706,6 +45371,7 @@
   {
     "title": "Kill Ao",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kill_Ao_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kill_Ao_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44146,6 +45812,7 @@
   {
     "title": "Kill La Kill",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kill_La_Kill_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kill_La_Kill_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44230,6 +45897,7 @@
   {
     "title": "Kill Me Baby",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kill_Me_Baby_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kill_Me_Baby_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44298,6 +45966,7 @@
   {
     "title": "Kimi Ni Sasageru Otokomae",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kimi_ni_Sasageru_Otokomae_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kimi_ni_Sasageru_Otokomae_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44314,6 +45983,7 @@
   {
     "title": "Kingdom",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kingdom_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kingdom_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44846,6 +46516,7 @@
   {
     "title": "Kizetsu Yuusha To Ansatsu Hime",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kizetsu_Yuusha_to_Ansatsu_hime_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kizetsu_Yuusha_to_Ansatsu_hime_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -44866,6 +46537,7 @@
   {
     "title": "Kobayashisan Chi No Maid Dragon",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kobayashisan_chi_no_Maid_Dragon_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kobayashisan_chi_no_Maid_Dragon_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -45410,6 +47082,7 @@
   {
     "title": "Kodoku No Gourmet",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kodoku_no_Gourmet_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kodoku_no_Gourmet_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -45494,6 +47167,7 @@
   {
     "title": "Komisan Wa Komyushou Desu",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Komisan_wa_Komyushou_desu_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Komisan_wa_Komyushou_desu_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -47562,6 +49236,7 @@
   {
     "title": "Kuroiwa Medaka Ni Watashi No Kawaii Ga Tsuujinai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kuroiwa_Medaka_ni_Watashi_no_Kawaii_ga_Tsuujinai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kuroiwa_Medaka_ni_Watashi_no_Kawaii_ga_Tsuujinai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -48342,6 +50017,7 @@
   {
     "title": "Kuroko No Basket",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kuroko_no_Basket_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kuroko_no_Basket_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -49570,6 +51246,7 @@
   {
     "title": "Kusuriya No Hitorigoto",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Kusuriya_no_Hitorigoto_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Kusuriya_no_Hitorigoto_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -49646,6 +51323,7 @@
   {
     "title": "Little Shark S Outings",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Little_Shark_s_Outings_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Little_Shark_s_Outings_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -50186,6 +51864,7 @@
   {
     "title": "Lookism",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Lookism_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Lookism_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -52326,6 +54005,7 @@
   {
     "title": "Lucky Star",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Lucky_Star_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Lucky_Star_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -52350,6 +54030,7 @@
   {
     "title": "Made In Abyss",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Made_in_Abyss_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Made_in_Abyss_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -52678,6 +54359,7 @@
   {
     "title": "Magi Craft Meister",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Magi_Craft_Meister_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Magi_Craft_Meister_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -52778,6 +54460,7 @@
   {
     "title": "Major",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Major_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Major_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -53038,6 +54721,7 @@
   {
     "title": "Major 2Nd",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Major_2nd_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Major_2nd_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -53202,6 +54886,7 @@
   {
     "title": "Mister Ajikko",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Mister_Ajikko_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Mister_Ajikko_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -53238,6 +54923,7 @@
   {
     "title": "Mob Psycho 100",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Mob_Psycho_100_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Mob_Psycho_100_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -53658,6 +55344,7 @@
   {
     "title": "Monochrome Days",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/MonoChrome_Days_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/MonoChrome_Days_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -53758,6 +55445,7 @@
   {
     "title": "Monster",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/MONSTER_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/MONSTER_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54486,6 +56174,7 @@
   {
     "title": "Mr Mallow Blue",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Mr_Mallow_Blue_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Mr_Mallow_Blue_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54522,6 +56211,7 @@
   {
     "title": "Mushoku Tensei",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Mushoku_Tensei_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Mushoku_Tensei_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54730,6 +56420,7 @@
   {
     "title": "My Hero Academia",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_Hero_Academia_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/My_Hero_Academia_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54814,6 +56505,7 @@
   {
     "title": "My New Girlfriend Is Not Human",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_New_GirlFriend_is_not_Human_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/My_New_GirlFriend_is_not_Human_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54834,6 +56526,7 @@
   {
     "title": "My Revenge Begins With Skill Theft",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_Revenge_Begins_With_Skill_Theft_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/My_Revenge_Begins_With_Skill_Theft_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -54894,6 +56587,7 @@
   {
     "title": "Nanatsu No Taizai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Nanatsu_no_Taizai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Nanatsu_no_Taizai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -56450,6 +58144,7 @@
   {
     "title": "Napoleon Shishi No Jidai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Napoleon_Shishi_no_Jidai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Napoleon_Shishi_no_Jidai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -56490,6 +58185,7 @@
   {
     "title": "Naruto",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/NARUTO_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/NARUTO_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -56766,6 +58462,7 @@
   {
     "title": "Natsume Yuujinchou",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Natsume_Yuujinchou_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Natsume_Yuujinchou_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -57382,6 +59079,7 @@
   {
     "title": "Nichijou",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Nichijou_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Nichijou_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -58370,6 +60068,7 @@
   {
     "title": "Nige Jouzu No Wakagimi",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Nige_Jouzu_no_Wakagimi_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Nige_Jouzu_no_Wakagimi_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -59218,6 +60917,7 @@
   {
     "title": "Nodame Cantabile",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Nodame_Cantabile_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Nodame_Cantabile_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -59706,6 +61406,7 @@
   {
     "title": "Non Non Biyori",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Non_Non_Biyori_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Non_Non_Biyori_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -60230,6 +61931,7 @@
   {
     "title": "Now That We Draw",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Now_That_We_Draw_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Now_That_We_Draw_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -60300,8 +62002,186 @@
     ]
   },
   {
+    "title": "Ogami Tsumiki To Kinichijou",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ogami_Tsumiki_to_Kinichijou_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ogami_Tsumiki_to_Kinichijou_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 59
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 18
+      }
+    ]
+  },
+  {
     "title": "Oishinbo",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Oishinbo_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Oishinbo_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -60382,6 +62262,7 @@
   {
     "title": "Olympia Of Infidelity",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Olympia_of_Infidelity_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Olympia_of_Infidelity_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -60394,6 +62275,7 @@
   {
     "title": "One Peace",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/One_Peace_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/One_Peace_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -61682,6 +63564,7 @@
   {
     "title": "One Punch Man",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/One_Punch_Man_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/One_Punch_Man_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -62044,8 +63927,42 @@
     ]
   },
   {
+    "title": "Onnamao Sama Ha Yusha Kun Wo Taosenai",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Onnamao_Sama_ha_Yusha_Kun_wo_Taosenai_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Onnamao_Sama_ha_Yusha_Kun_wo_Taosenai_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 9
+      }
+    ]
+  },
+  {
     "title": "Ookiku Furikabutte",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ookiku_Furikabutte_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ookiku_Furikabutte_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -62522,6 +64439,7 @@
   {
     "title": "Osananananajimi",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Osananananajimi_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Osananananajimi_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -62534,6 +64452,7 @@
   {
     "title": "Osomatsu San",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Osomatsu_San_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Osomatsu_San_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -62554,6 +64473,7 @@
   {
     "title": "Parasyte",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Parasyte_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Parasyte_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -62602,6 +64522,7 @@
   {
     "title": "Paripi Koumei",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Paripi_Koumei_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Paripi_Koumei_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -63232,8 +65153,130 @@
     ]
   },
   {
+    "title": "Pen Sis Twitter Shorts",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Pen_Sis_Twitter_Shorts_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Pen_Sis_Twitter_Shorts_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 4
+      }
+    ]
+  },
+  {
     "title": "Piano No Mori",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Piano_no_Mori_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Piano_no_Mori_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -63838,6 +65881,7 @@
   {
     "title": "Ping Pong",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ping_Pong_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ping_Pong_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -64090,6 +66134,7 @@
   {
     "title": "Primordial Ten Fiends Others Tame Beasts I Tame Beast Girls",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Primordial_Ten_Fiends_Others_Tame_Beasts_I_Tame_Beast_Girls_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Primordial_Ten_Fiends_Others_Tame_Beasts_I_Tame_Beast_Girls_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -64138,6 +66183,7 @@
   {
     "title": "Ranma",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ranma_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ranma_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -65926,6 +67972,7 @@
   {
     "title": "Rebecca S Prayer",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Rebecca_s_Prayer_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Rebecca_s_Prayer_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -65974,6 +68021,7 @@
   {
     "title": "Red",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Red_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Red_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -65986,6 +68034,7 @@
   {
     "title": "Red Blue",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Red_Blue_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Red_Blue_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -66262,6 +68311,7 @@
   {
     "title": "Ryuuou No Oshigoto",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ryuuou_no_Oshigoto_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ryuuou_no_Oshigoto_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -66274,6 +68324,7 @@
   {
     "title": "S Rank Boukensha De Aru Ore No Musume Tachi Wa Juudo No Father Con Deshita",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/S_Rank_Boukensha_de_aru_Ore_no_Musume_Tachi_wa_Juudo_no_Father_con_Deshita_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/S_Rank_Boukensha_de_aru_Ore_no_Musume_Tachi_wa_Juudo_no_Father_con_Deshita_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -66326,6 +68377,7 @@
   {
     "title": "Sachou To Sake To Hoshi",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sachou_To_Sake_To_Hoshi_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sachou_To_Sake_To_Hoshi_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -66374,6 +68426,7 @@
   {
     "title": "Saint Onii San",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Saint_Onii_San_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Saint_Onii_San_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -66550,6 +68603,7 @@
   {
     "title": "Sakamoto Days",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakamoto_Days_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakamoto_Days_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -67262,6 +69316,7 @@
   {
     "title": "Sakigake Otokojuku",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sakigake_Otokojuku_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sakigake_Otokojuku_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -67406,6 +69461,7 @@
   {
     "title": "Seabird And The Wolf",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Seabird_And_The_Wolf_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Seabird_And_The_Wolf_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -67570,6 +69626,7 @@
   {
     "title": "Second Life Ranker",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Second_Life_Ranker_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Second_Life_Ranker_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -68408,8 +70465,1018 @@
     ]
   },
   {
+    "title": "Senpai Ga Uzai No Hanashi",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Senpai_ga_Uzai_no_Hanashi_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Senpai_ga_Uzai_no_Hanashi_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 116",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 117",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 118",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 119",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 120",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 121",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 122",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 123",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 124",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 125",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 126",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 127",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 128",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 129",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 130",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 131",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 132",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 133",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 134",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 135",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 136",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 137",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 138",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 139",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 140",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 141",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 142",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 143",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 144",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 145",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 146",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 147",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 148",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 149",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 150",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 151",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 152",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 153",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 154",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 155",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 156",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 157",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 158",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 159",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 160",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 161",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 162",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 163",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 164",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 165",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 166",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 167",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 168",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 169",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 170",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 171",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 172",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 173",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 174",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 175",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 176",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 177",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 178",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 179",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 180",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 181",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 182",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 183",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 184",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 185",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 186",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 187",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 188",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 189",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 190",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 191",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 192",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 193",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 194",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 195",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 196",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 197",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 198",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 199",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 200",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 201",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 202",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 203",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 204",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 205",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 206",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 207",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 208",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 209",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 210",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 211",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 212",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 213",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 214",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 215",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 216",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 217",
+        "page_count": 8
+      },
+      {
+        "title": "Episode 218",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 219",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 220",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 221",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 222",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 223",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 224",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 225",
+        "page_count": 7
+      },
+      {
+        "title": "Episode 226",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 227",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 228",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 229",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 230",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 231",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 232",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 233",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 234",
+        "page_count": 7
+      },
+      {
+        "title": "Episode 235",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 236",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 237",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 238",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 239",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 240",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 241",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 242",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 243",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 244",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 245",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 246",
+        "page_count": 7
+      },
+      {
+        "title": "Episode 247",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 248",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 249",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 250",
+        "page_count": 8
+      }
+    ]
+  },
+  {
     "title": "Shima San",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Shima_san_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Shima_san_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -68442,6 +71509,7 @@
   {
     "title": "Shokugeki No Soma",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Shokugeki_no_Soma_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Shokugeki_no_Soma_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -69854,6 +72922,7 @@
   {
     "title": "Shoujo Shuumatsu Ryokou",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Shoujo_Shuumatsu_Ryokou_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Shoujo_Shuumatsu_Ryokou_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -70074,6 +73143,7 @@
   {
     "title": "Shuumatsu No Valkyrie",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Shuumatsu_no_Valkyrie_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Shuumatsu_no_Valkyrie_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -70346,6 +73416,7 @@
   {
     "title": "Sket Dance",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sket_Dance_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sket_Dance_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -70482,6 +73553,7 @@
   {
     "title": "Slam Dunk",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Slam_Dunk_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Slam_Dunk_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -70658,6 +73730,7 @@
   {
     "title": "Solo Leveling",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Solo_Leveling_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Solo_Leveling_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -70794,6 +73867,7 @@
   {
     "title": "Sono Bisque Doll Wa Koi Wo Suru",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sono_Bisque_Doll_wa_Koi_wo_Suru_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sono_Bisque_Doll_wa_Koi_wo_Suru_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -71154,6 +74228,7 @@
   {
     "title": "Soul Eater",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Soul_Eater_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Soul_Eater_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -71262,6 +74337,7 @@
   {
     "title": "Sousou No Frieren",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Sousou_no_Frieren_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Sousou_no_Frieren_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -71838,6 +74914,7 @@
   {
     "title": "Spy Family",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/SPY_FAMILY_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/SPY_FAMILY_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -72318,6 +75395,7 @@
   {
     "title": "Star Ginseng Store",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Star_Ginseng_Store_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Star_Ginseng_Store_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -72466,6 +75544,7 @@
   {
     "title": "Start Ginseng Store",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Start_Ginseng_Store_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Start_Ginseng_Store_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -72546,6 +75625,7 @@
   {
     "title": "Start Of The Giants",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Start_of_the_Giants_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Start_of_the_Giants_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -72570,6 +75650,7 @@
   {
     "title": "Summertime Rendering",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Summertime_Rendering_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Summertime_Rendering_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -73110,6 +76191,7 @@
   {
     "title": "Takopi No Genzai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Takopi_no_Genzai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Takopi_no_Genzai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -73190,6 +76272,7 @@
   {
     "title": "Tengoku Daimakyou",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tengoku_Daimakyou_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tengoku_Daimakyou_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -73498,6 +76581,7 @@
   {
     "title": "Tensei Youjo Wa Akiramenai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tensei_Youjo_wa_Akiramenai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tensei_Youjo_wa_Akiramenai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -73542,6 +76626,7 @@
   {
     "title": "Terra Formars",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Terra_Formars_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Terra_Formars_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -74570,6 +77655,7 @@
   {
     "title": "Tetsuya Jansei To Yobareta Otoko",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tetsuya_Jansei_to_Yobareta_Otoko_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tetsuya_Jansei_to_Yobareta_Otoko_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -74618,6 +77704,7 @@
   {
     "title": "The Boxer",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Boxer_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Boxer_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -75086,6 +78173,7 @@
   {
     "title": "The Dragon The Hero And The Courier",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Dragon_The_Hero_And_The_Courier_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Dragon_The_Hero_And_The_Courier_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -75130,6 +78218,7 @@
   {
     "title": "The Fable",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Fable_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Fable_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -76186,6 +79275,7 @@
   {
     "title": "The Great Mage Of The Hero S Party Reincarnates",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Great_Mage_of_the_Hero_s_Party_Reincarnates_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Great_Mage_of_the_Hero_s_Party_Reincarnates_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -76560,8 +79650,802 @@
     ]
   },
   {
+    "title": "The Player That Cant Level Up",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Player_That_Cant_Level_Up_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Player_That_Cant_Level_Up_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 123
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 109
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 108
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 82
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 83
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 93
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 80
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 89
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 79
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 91
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 70
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 75
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 75
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 75
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 60
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 67
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 73
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 84
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 89
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 88
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 99
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 92
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 59
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 83
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 67
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 90
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 96
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 53
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 62
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 67
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 2
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 102
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 77
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 7
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 95
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 107
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 98
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 97
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 97
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 101
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 116
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 91
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 93
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 105
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 90
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 98
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 76
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 88
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 76
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 90
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 72
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 89
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 97
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 88
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 100
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 93
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 101
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 97
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 76
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 71
+      },
+      {
+        "title": "Episode 116",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 117",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 118",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 119",
+        "page_count": 61
+      },
+      {
+        "title": "Episode 120",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 121",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 122",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 123",
+        "page_count": 101
+      },
+      {
+        "title": "Episode 124",
+        "page_count": 90
+      },
+      {
+        "title": "Episode 125",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 126",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 127",
+        "page_count": 79
+      },
+      {
+        "title": "Episode 128",
+        "page_count": 93
+      },
+      {
+        "title": "Episode 129",
+        "page_count": 93
+      },
+      {
+        "title": "Episode 130",
+        "page_count": 98
+      },
+      {
+        "title": "Episode 131",
+        "page_count": 82
+      },
+      {
+        "title": "Episode 132",
+        "page_count": 83
+      },
+      {
+        "title": "Episode 133",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 134",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 135",
+        "page_count": 75
+      },
+      {
+        "title": "Episode 136",
+        "page_count": 83
+      },
+      {
+        "title": "Episode 137",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 138",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 139",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 140",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 141",
+        "page_count": 75
+      },
+      {
+        "title": "Episode 142",
+        "page_count": 78
+      },
+      {
+        "title": "Episode 143",
+        "page_count": 80
+      },
+      {
+        "title": "Episode 144",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 145",
+        "page_count": 90
+      },
+      {
+        "title": "Episode 146",
+        "page_count": 82
+      },
+      {
+        "title": "Episode 147",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 148",
+        "page_count": 72
+      },
+      {
+        "title": "Episode 149",
+        "page_count": 82
+      },
+      {
+        "title": "Episode 150",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 151",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 152",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 153",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 154",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 155",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 156",
+        "page_count": 80
+      },
+      {
+        "title": "Episode 157",
+        "page_count": 84
+      },
+      {
+        "title": "Episode 158",
+        "page_count": 87
+      },
+      {
+        "title": "Episode 159",
+        "page_count": 74
+      },
+      {
+        "title": "Episode 160",
+        "page_count": 84
+      },
+      {
+        "title": "Episode 161",
+        "page_count": 81
+      },
+      {
+        "title": "Episode 162",
+        "page_count": 71
+      },
+      {
+        "title": "Episode 163",
+        "page_count": 70
+      },
+      {
+        "title": "Episode 164",
+        "page_count": 72
+      },
+      {
+        "title": "Episode 165",
+        "page_count": 83
+      },
+      {
+        "title": "Episode 166",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 167",
+        "page_count": 89
+      },
+      {
+        "title": "Episode 168",
+        "page_count": 86
+      },
+      {
+        "title": "Episode 169",
+        "page_count": 71
+      },
+      {
+        "title": "Episode 170",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 171",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 172",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 173",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 174",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 175",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 176",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 177",
+        "page_count": 9
+      },
+      {
+        "title": "Episode 178",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 179",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 180",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 181",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 182",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 183",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 184",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 185",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 186",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 187",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 188",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 189",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 190",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 191",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 192",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 193",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 194",
+        "page_count": 11
+      },
+      {
+        "title": "Episode 195",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 196",
+        "page_count": 46
+      }
+    ]
+  },
+  {
     "title": "The Promised Neverland",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Promised_Neverland_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Promised_Neverland_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -77370,6 +81254,7 @@
   {
     "title": "The Regressed Mercenarys Machinations",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Regressed_Mercenarys_Machinations_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Regressed_Mercenarys_Machinations_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -77426,6 +81311,7 @@
   {
     "title": "The Starts And I",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Starts_And_I_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Starts_And_I_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -78276,8 +82162,90 @@
     ]
   },
   {
+    "title": "They Are Still Being Shaken This Morning",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/They_Are_Still_Being_Shaken_This_Morning_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/They_Are_Still_Being_Shaken_This_Morning_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 20
+      }
+    ]
+  },
+  {
     "title": "Toaru Majutsu No Index",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Toaru_Majutsu_no_Index_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Toaru_Majutsu_no_Index_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -78474,6 +82442,7 @@
   {
     "title": "Tokyo Ghoul",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tokyo_Ghoul_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tokyo_Ghoul_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -79198,6 +83167,7 @@
   {
     "title": "Tokyo Revengers",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tokyo_Revengers_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tokyo_Revengers_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -80390,6 +84360,7 @@
   {
     "title": "Toriko",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Toriko_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Toriko_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -80568,8 +84539,182 @@
     ]
   },
   {
+    "title": "Toshokan No Daimajutsushi",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Toshokan_no_Daimajutsushi_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Toshokan_no_Daimajutsushi_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 47
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 65
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 67
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 55
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 54
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 59
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 44
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 69
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 85
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 71
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 65
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 79
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 48
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 84
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 43
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 56
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 65
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 66
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 70
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 79
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 20
+      }
+    ]
+  },
+  {
     "title": "Tougen Anki",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tougen_Anki_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tougen_Anki_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -80672,8 +84817,30 @@
     ]
   },
   {
+    "title": "Tsukkomi Machi No Machino San",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Tsukkomi_Machi_no_Machino_San_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Tsukkomi_Machi_no_Machino_San_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 1
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 1
+      }
+    ]
+  },
+  {
     "title": "Uchuu Kyoudai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Uchuu_Kyoudai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Uchuu_Kyoudai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -82450,6 +86617,7 @@
   {
     "title": "Ultraman X Osomatsu San",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ultraman_x_Osomatsu_san_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ultraman_x_Osomatsu_san_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -82472,8 +86640,22 @@
     ]
   },
   {
+    "title": "Ura Dungeon Okusan",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ura_Dungeon_Okusan_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ura_Dungeon_Okusan_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 50
+      }
+    ]
+  },
+  {
     "title": "Urusei Yatsura",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Urusei_Yatsura_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Urusei_Yatsura_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -84006,6 +88188,7 @@
   {
     "title": "Ushio To Tora",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Ushio_to_Tora_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Ushio_to_Tora_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -84146,6 +88329,7 @@
   {
     "title": "Usogui",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Usogui_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Usogui_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -84350,6 +88534,7 @@
   {
     "title": "Vagabond",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Vagabond_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Vagabond_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -85274,6 +89459,7 @@
   {
     "title": "Vinland Saga",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Vinland_Saga_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Vinland_Saga_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -86102,6 +90288,7 @@
   {
     "title": "Wakabachan Wa Wakarasetai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Wakabachan_wa_Wakarasetai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Wakabachan_wa_Wakarasetai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -86134,6 +90321,7 @@
   {
     "title": "We Are Cats",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/We_Are_Cats_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/We_Are_Cats_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -86370,6 +90558,7 @@
   {
     "title": "Weak Hero",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Weak_Hero_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Weak_Hero_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -87374,6 +91563,7 @@
   {
     "title": "Welcome Back Alice",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Welcome_back_Alice_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Welcome_back_Alice_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -87414,6 +91604,7 @@
   {
     "title": "Welcome To Japan Ms Elf",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Welcome_to_Japan_Ms_Elf_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Welcome_to_Japan_Ms_Elf_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -87646,6 +91837,7 @@
   {
     "title": "Welcome To The Nhk",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Welcome_to_the_NHK_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Welcome_to_the_NHK_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -87774,6 +91966,7 @@
   {
     "title": "Wolf Chan Wa Sumashitai",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Wolf_Chan_wa_Sumashitai_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Wolf_Chan_wa_Sumashitai_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -87922,6 +92115,7 @@
   {
     "title": "World Trigger",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/World_Trigger_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/World_Trigger_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -89030,6 +93224,7 @@
   {
     "title": "Wotaku Ni Koi Wa Muzukashii",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Wotaku_ni_Koi_wa_Muzukashii_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Wotaku_ni_Koi_wa_Muzukashii_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -89422,6 +93617,7 @@
   {
     "title": "Yachiru San Grows Praised",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yachiru_san_Grows_Praised_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yachiru_san_Grows_Praised_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -89434,6 +93630,7 @@
   {
     "title": "Yajin Tensei Karate Survivoer In Another World",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yajin_Tensei_Karate_Survivoer_in_Another_World_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yajin_Tensei_Karate_Survivoer_in_Another_World_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -89526,6 +93723,7 @@
   {
     "title": "Yakitate Japan",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yakitate_Japan_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yakitate_Japan_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -90606,6 +94804,7 @@
   {
     "title": "Yamikin-Ushijima-Kun",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yamikin-Ushijima-Kun_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yamikin-Ushijima-Kun_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -90670,6 +94869,7 @@
   {
     "title": "Yawara",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yawara_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yawara_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -90714,6 +94914,7 @@
   {
     "title": "Yofukashi No Uta",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yofukashi_no_Uta_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yofukashi_no_Uta_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -91246,6 +95447,7 @@
   {
     "title": "Yotsuba To!",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yotsuba_to!_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yotsuba_to!_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -91738,6 +95940,7 @@
   {
     "title": "Yowamushi Pedal",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yowamushi_Pedal_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yowamushi_Pedal_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -92864,8 +97067,58 @@
     ]
   },
   {
+    "title": "Zeikin De Katta Hon",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Zeikin_de_Katta_Hon_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Zeikin_de_Katta_Hon_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 24
+      }
+    ]
+  },
+  {
     "title": "Zipang",
     "description": "",
+    "category": "",
     "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Zipang_jpg.jpg",
     "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Zipang_jpg/ep_%03d/page_%03d.jpg",
     "episodes": [
@@ -93584,6 +97837,111 @@
       {
         "title": "Episode 179",
         "page_count": 28
+      }
+    ]
+  },
+  {
+    "title": "Zombie Land Saga",
+    "description": "",
+    "category": "",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Zombie_Land_Saga_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Zombie_Land_Saga_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 17
       }
     ]
   }
