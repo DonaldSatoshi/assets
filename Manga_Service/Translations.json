@@ -1,12 +1,12 @@
 {
   "Delicious_in_Dungeon_jpg": {
     "Japanese": {
-      "episode_format": "https://translationdata.cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/Japanese/Delicious_in_Dungeon_jpg/ep_%03d/page_%03d.json"
+      "episode_format": "https://pub-478214e053364000965144315b229ee2.r2.dev/Japanese/Delicious_in_Dungeon_jpg/ep_%03d/page_%03d.json"
     }
   },
   "Demon_Slayer_jpg": {
     "Japanese": {
-      "episode_format": "https://translationdata.cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/Japanese/Demon_Slayer_jpg/ep_%03d/page_%03d.json"
+      "episode_format": "https://pub-478214e053364000965144315b229ee2.r2.dev/Japanese/Demon_Slayer_jpg/ep_%03d/page_%03d.json"
     }
   }
 }
