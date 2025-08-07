@@ -17111,6 +17111,635 @@
     ]
   },
   {
+    "title": "D Fragments",
+    "description": "D Fragments is a manga that explores complex human emotions and relationships through interconnected stories, blending elements of drama and introspection. Its unique narrative style offers a thought-provoking experience, delving into personal struggles and the intricacies of life.",
+    "category": "Other",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/D_FRAGMENTS_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/D_FRAGMENTS_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 40
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 47
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 34
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 109",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 110",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 111",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 112",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 113",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 114",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 115",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 116",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 117",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 118",
+        "page_count": 10
+      },
+      {
+        "title": "Episode 119",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 120",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 121",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 122",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 123",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 124",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 125",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 126",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 127",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 128",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 129",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 130",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 131",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 132",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 133",
+        "page_count": 14
+      },
+      {
+        "title": "Episode 134",
+        "page_count": 12
+      },
+      {
+        "title": "Episode 135",
+        "page_count": 13
+      },
+      {
+        "title": "Episode 136",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 137",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 138",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 139",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 140",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 141",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 142",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 143",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 144",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 145",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 146",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 147",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 148",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 149",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 150",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 151",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 152",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 153",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 154",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 155",
+        "page_count": 24
+      }
+    ]
+  },
+  {
     "title": "Dandadan",
     "description": "Dandadan is a manga that blends supernatural elements with humor, following high school students who encounter ghosts, aliens, and otherworldly phenomena. Its energetic storytelling and quirky characters create an engaging mix of adventure and comedy, making it a captivating read for fans of fantasy and supernatural genres.",
     "category": "Fantasy",
@@ -31506,6 +32135,75 @@
       {
         "title": "Episode 359",
         "page_count": 27
+      }
+    ]
+  },
+  {
+    "title": "Elf Ga Gendai Ni Itara",
+    "description": "Elf Ga Gendai Ni Itara is a fantasy manga that follows the adventures of elves adapting to modern society. Blending magical elements with everyday life, it explores themes of integration, friendship, and humor as mythical beings navigate the contemporary world.",
+    "category": "Fantasy",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Elf_ga_Gendai_ni_Itara_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Elf_ga_Gendai_ni_Itara_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 3
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 5
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 4
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 8
       }
     ]
   },
@@ -77354,6 +78052,447 @@
     ]
   },
   {
+    "title": "My Fake Girlfriend S Defending Against Their Attacks",
+    "description": "A humorous and heartfelt story about a young man navigating the complexities of fake relationships and real feelings, as he defends his pretend girlfriend from various challenges. Blending romance and comedy, it explores themes of love, trust, and self-discovery in a lighthearted manner.",
+    "category": "Romance",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/My_Fake_Girlfriend_s_Defending_Against_Their_Attacks_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/My_Fake_Girlfriend_s_Defending_Against_Their_Attacks_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 10",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 11",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 12",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 13",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 14",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 15",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 16",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 17",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 18",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 19",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 20",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 21",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 22",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 23",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 24",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 25",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 26",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 27",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 28",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 29",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 30",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 31",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 32",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 33",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 34",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 35",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 36",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 37",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 38",
+        "page_count": 33
+      },
+      {
+        "title": "Episode 39",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 40",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 41",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 42",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 43",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 44",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 45",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 46",
+        "page_count": 62
+      },
+      {
+        "title": "Episode 47",
+        "page_count": 46
+      },
+      {
+        "title": "Episode 48",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 49",
+        "page_count": 52
+      },
+      {
+        "title": "Episode 50",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 51",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 52",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 53",
+        "page_count": 52
+      },
+      {
+        "title": "Episode 54",
+        "page_count": 56
+      },
+      {
+        "title": "Episode 55",
+        "page_count": 52
+      },
+      {
+        "title": "Episode 56",
+        "page_count": 53
+      },
+      {
+        "title": "Episode 57",
+        "page_count": 53
+      },
+      {
+        "title": "Episode 58",
+        "page_count": 52
+      },
+      {
+        "title": "Episode 59",
+        "page_count": 50
+      },
+      {
+        "title": "Episode 60",
+        "page_count": 57
+      },
+      {
+        "title": "Episode 61",
+        "page_count": 55
+      },
+      {
+        "title": "Episode 62",
+        "page_count": 49
+      },
+      {
+        "title": "Episode 63",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 64",
+        "page_count": 52
+      },
+      {
+        "title": "Episode 65",
+        "page_count": 56
+      },
+      {
+        "title": "Episode 66",
+        "page_count": 57
+      },
+      {
+        "title": "Episode 67",
+        "page_count": 56
+      },
+      {
+        "title": "Episode 68",
+        "page_count": 59
+      },
+      {
+        "title": "Episode 69",
+        "page_count": 46
+      },
+      {
+        "title": "Episode 70",
+        "page_count": 51
+      },
+      {
+        "title": "Episode 71",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 72",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 73",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 74",
+        "page_count": 44
+      },
+      {
+        "title": "Episode 75",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 76",
+        "page_count": 24
+      },
+      {
+        "title": "Episode 77",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 78",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 79",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 80",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 81",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 82",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 83",
+        "page_count": 29
+      },
+      {
+        "title": "Episode 84",
+        "page_count": 30
+      },
+      {
+        "title": "Episode 85",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 86",
+        "page_count": 32
+      },
+      {
+        "title": "Episode 87",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 88",
+        "page_count": 28
+      },
+      {
+        "title": "Episode 89",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 90",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 91",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 92",
+        "page_count": 27
+      },
+      {
+        "title": "Episode 93",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 94",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 95",
+        "page_count": 22
+      },
+      {
+        "title": "Episode 96",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 97",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 98",
+        "page_count": 18
+      },
+      {
+        "title": "Episode 99",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 100",
+        "page_count": 15
+      },
+      {
+        "title": "Episode 101",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 102",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 103",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 104",
+        "page_count": 26
+      },
+      {
+        "title": "Episode 105",
+        "page_count": 20
+      },
+      {
+        "title": "Episode 106",
+        "page_count": 17
+      },
+      {
+        "title": "Episode 107",
+        "page_count": 16
+      },
+      {
+        "title": "Episode 108",
+        "page_count": 22
+      }
+    ]
+  },
+  {
     "title": "My First Times With Suwa San Official",
     "description": "A heartfelt romantic manga exploring the tender and humorous moments between characters as they navigate their feelings and relationships, capturing the innocence and excitement of first love.",
     "category": "Romance",
@@ -84340,6 +85479,31 @@
       {
         "title": "Episode 31",
         "page_count": 16
+      }
+    ]
+  },
+  {
+    "title": "On The Tenth Year The Transferee Who Gave Up Returning Finally Becomes The Protagonist",
+    "description": "A captivating fantasy tale about a transferee who abandons the idea of returning home and instead embraces their new destiny, gradually rising to become the central figure in a world filled with magic, adventure, and unexpected challenges.",
+    "category": "Fantasy",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/On_the_Tenth_Year_the_Transferee_Who_Gave_up_Returning_Finally_Becomes_the_Protagonist_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/On_the_Tenth_Year_the_Transferee_Who_Gave_up_Returning_Finally_Becomes_the_Protagonist_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 66
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 34
       }
     ]
   },
@@ -111665,6 +112829,51 @@
     ]
   },
   {
+    "title": "The Everyday Maintenance Of Shinozaki Kun",
+    "description": "The Everyday Maintenance Of Shinozaki Kun is a charming slice-of-life manga that explores the daily routines and subtle humor in the life of Shinozaki Kun, highlighting the simple yet meaningful moments that define everyday existence.",
+    "category": "Slice of Life",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/The_Everyday_Maintenance_of_Shinozaki_kun_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/The_Everyday_Maintenance_of_Shinozaki_kun_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 45
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 35
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 36
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 37
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 31
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 38
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 6
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 3
+      }
+    ]
+  },
+  {
     "title": "The Fable",
     "description": "The Fable is a stylish action-packed manga set in a vibrant city where a skilled con artist navigates dangerous underworlds. Blending fantasy elements with sharp wit, it explores themes of deception, loyalty, and survival in a captivating, fast-paced story.",
     "category": "Fantasy",
@@ -132407,6 +133616,51 @@
       {
         "title": "Episode 114",
         "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Yane No Shita No Artemis",
+    "description": "Yane No Shita No Artemis is a fantasy manga that follows the adventures of Artemis, a young girl with mysterious powers, as she navigates a world filled with magic, mythical creatures, and ancient secrets. Her journey explores themes of friendship, courage, and self-discovery.",
+    "category": "Fantasy",
+    "image_url": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Manga_Image/Yane_no_Shita_no_Artemis_jpg.jpg",
+    "episode_format": "https://pub-8f28a754ccd7425f9775826dba4b172f.r2.dev/Yane_no_Shita_no_Artemis_jpg/ep_%03d/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 53
+      },
+      {
+        "title": "Episode 2",
+        "page_count": 39
+      },
+      {
+        "title": "Episode 3",
+        "page_count": 23
+      },
+      {
+        "title": "Episode 4",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 5",
+        "page_count": 25
+      },
+      {
+        "title": "Episode 6",
+        "page_count": 21
+      },
+      {
+        "title": "Episode 7",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 8",
+        "page_count": 19
+      },
+      {
+        "title": "Episode 9",
+        "page_count": 19
       }
     ]
   },
