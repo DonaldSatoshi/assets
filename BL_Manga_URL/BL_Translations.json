@@ -1,0 +1,16 @@
+{
+  "American_comics": {
+    "Delightful_Depravity_Winter_Soldier_Captain_America": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/American_comics/Delightful_Depravity_Winter_Soldier_Captain_America/page_%03d.json",
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32
+    },
+    "TadanoEroHon_American_Comic_Series_Depth_P": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/American_comics/TadanoEroHon_American_Comic_Series_Depth_P/page_%03d.json",
+      "start_page": 1,
+      "end_page": 15,
+      "total_pages": 15
+    }
+  }
+}
