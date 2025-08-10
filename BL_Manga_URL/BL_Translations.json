@@ -12,5 +12,49 @@
       "end_page": 15,
       "total_pages": 15
     }
+  },
+  "Osomatsusan": {
+    "accident_auto_neet_ikkamatsu_wolf_san": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/accident_auto_neet_ikkamatsu_wolf_san/page_%03d.json",
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18
+    },
+    "after_school_club_ishimatsu_theater_club_difficulty": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/after_school_club_ishimatsu_theater_club_difficulty/page_%03d.json",
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25
+    },
+    "akatsuka_ku_fuck_bass_tour_osomatsu_kara": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/akatsuka_ku_fuck_bass_tour_osomatsu_kara/page_%03d.json",
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26
+    },
+    "all_my_belongings_osomatsu_one_carat": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/all_my_belongings_osomatsu_one_carat/page_%03d.json",
+      "start_page": 1,
+      "end_page": 41,
+      "total_pages": 41
+    },
+    "anatagonomi_osomatsu_kara": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/anatagonomi_osomatsu_kara/page_%03d.json",
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18
+    },
+    "atsu_todo_incident_o_mat_san": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/atsu_todo_incident_o_mat_san/page_%03d.json",
+      "start_page": 1,
+      "end_page": 33,
+      "total_pages": 33
+    },
+    "backcode_sideosmt_sos_matsu_one_color": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/backcode_sideosmt_sos_matsu_one_color/page_%03d.json",
+      "start_page": 1,
+      "end_page": 202,
+      "total_pages": 202
+    }
   }
 }
