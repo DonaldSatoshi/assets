@@ -13871,6 +13871,71 @@
     ]
   },
   {
+    "title": "Dungeon Meshi - Because We Are Friends Dungeon Meshi Kaburai",
+    "description": "",
+    "category": "Dungeon_Meshi",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 38
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Meshi - Dont You Know Boiled Potatoes Dungeon Meshi Kaburai",
+    "description": "",
+    "category": "Dungeon_Meshi",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 43
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Meshi - Eat You Up Dungeon Meshi Kaburai",
+    "description": "",
+    "category": "Dungeon_Meshi",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Meshi - I Dont Want To Lose To An Onaho Dungeon Meshi Kaburai",
+    "description": "",
+    "category": "Dungeon_Meshi",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 42
+      }
+    ]
+  },
+  {
+    "title": "Dungeon Meshi - Story Of Being Locked In A Room Kaburai Cannot Exit Dungeon Meshi Kaburai",
+    "description": "",
+    "category": "Dungeon_Meshi",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 31
+      }
+    ]
+  },
+  {
     "title": "Fate Series - 24 Hour Living Fate Series Bow And Spear",
     "description": "",
     "category": "Fate_Series",
