@@ -13,6 +13,148 @@
       "total_pages": 15
     }
   },
+  "Dungeon_Meshi": {
+    "Because_We_Are_Friends_Dungeon_Meshi_Kaburai": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_%03d.json",
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38
+    },
+    "DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.json",
+      "start_page": 1,
+      "end_page": 43,
+      "total_pages": 43
+    },
+    "EAT_YOU_UP_DUNGEON_MESHI_KABURAI": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_%03d.json",
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26
+    },
+    "i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_%03d.json",
+      "start_page": 1,
+      "end_page": 42,
+      "total_pages": 42
+    },
+    "story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.json",
+      "start_page": 1,
+      "end_page": 31,
+      "total_pages": 31
+    }
+  },
+  "Gegege_no_Kitarou": {
+    "Blessing_Kitaro_Water_Father": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Blessing_Kitaro_Water_Father/page_%03d.json",
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30
+    },
+    "Blue_Heat_Drowning_Gegege_no_Kitaro_Geta_Water": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Blue_Heat_Drowning_Gegege_no_Kitaro_Geta_Water/page_%03d.json",
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38
+    },
+    "Bright_Family_Planning_Kitune_GeGeGe_no_Kitaro_Kijuu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Bright_Family_Planning_Kitune_GeGeGe_no_Kitaro_Kijuu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 36,
+      "total_pages": 36
+    },
+    "Gegege_no_Kitaro_Father_Stream": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Gegege_no_Kitaro_Father_Stream/page_%03d.json",
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38
+    },
+    "Gegege_no_Kitaro_Geta_Water": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Gegege_no_Kitaro_Geta_Water/page_%03d.json",
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34
+    },
+    "Gekage_Godfather_Water_Insertion": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Gekage_Godfather_Water_Insertion/page_%03d.json",
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26
+    },
+    "Genuinely_Longing_For_Friendship_Warmth_Kitaro_Father_Water": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Genuinely_Longing_For_Friendship_Warmth_Kitaro_Father_Water/page_%03d.json",
+      "start_page": 1,
+      "end_page": 50,
+      "total_pages": 50
+    },
+    "Getgetsu_Kitaro_Kami_Mizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Getgetsu_Kitaro_Kami_Mizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34
+    },
+    "Kamo_rare_hamare_AV_appearance_Kitaro_FatherWater": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Kamo_rare_hamare_AV_appearance_Kitaro_FatherWater/page_%03d.json",
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30
+    },
+    "Kitaro_Father_Water_Love_and_Hate": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Kitaro_Father_Water_Love_and_Hate/page_%03d.json",
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22
+    },
+    "Professor_and_Mizuki_Gegege_no_Kitaro_Father_Mizuki": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Professor_and_Mizuki_Gegege_no_Kitaro_Father_Mizuki/page_%03d.json",
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25
+    },
+    "StepFather_Incubus_Reincarnation_GeGeGeNoKitaro_GetaMizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/StepFather_Incubus_Reincarnation_GeGeGeNoKitaro_GetaMizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38
+    },
+    "T_woven_thread_beyond_reincarnation_genre_gaiden_gekiganokitaro_papa_mizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/T_woven_thread_beyond_reincarnation_genre_gaiden_gekiganokitaro_papa_mizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22
+    },
+    "TsukiMichiTE_TsubakiChiru_GeGeGe_no_Kitaro_Mizufu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/TsukiMichiTE_TsubakiChiru_GeGeGe_no_Kitaro_Mizufu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29
+    },
+    "Unknown_Window_Kitaro_Kimizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/Unknown_Window_Kitaro_Kimizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 37,
+      "total_pages": 37
+    },
+    "fuwa_fuwa_kitaro_oni_mizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/fuwa_fuwa_kitaro_oni_mizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30
+    },
+    "helping_easily_possessed_partner_nightly_with_sexual_spirit_godmother": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/helping_easily_possessed_partner_nightly_with_sexual_spirit_godmother/page_%03d.json",
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32
+    },
+    "lights_camera_action_gegege_no_kitaro_oni_mizu": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Gegege_no_Kitarou/lights_camera_action_gegege_no_kitaro_oni_mizu/page_%03d.json",
+      "start_page": 1,
+      "end_page": 48,
+      "total_pages": 48
+    }
+  },
   "My_Hero_Academia": {
     "alive_hero_academia_todoroki_bakugo": {
       "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/alive_hero_academia_todoroki_bakugo/page_%03d.json",
@@ -31,6 +173,36 @@
       "start_page": 1,
       "end_page": 53,
       "total_pages": 53
+    },
+    "bad_end_in_the_world_bakugo_tabi": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/bad_end_in_the_world_bakugo_tabi/page_%03d.json",
+      "start_page": 1,
+      "end_page": 31,
+      "total_pages": 31
+    },
+    "bad_end_world_boku_no_hero_academia_tabi_bakugou": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/bad_end_world_boku_no_hero_academia_tabi_bakugou/page_%03d.json",
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30
+    },
+    "bakugo_nipple_mosquito_bite_story_boku_no_hero_academia": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/bakugo_nipple_mosquito_bite_story_boku_no_hero_academia/page_%03d.json",
+      "start_page": 1,
+      "end_page": 56,
+      "total_pages": 56
+    },
+    "bakugo_perineum_development_buruhiro_esekai": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/bakugo_perineum_development_buruhiro_esekai/page_%03d.json",
+      "start_page": 1,
+      "end_page": 27,
+      "total_pages": 27
+    },
+    "bakugo_support_reprint_1": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/bakugo_support_reprint_1/page_%03d.json",
+      "start_page": 1,
+      "end_page": 71,
+      "total_pages": 71
     }
   },
   "Osomatsusan": {
@@ -117,6 +289,24 @@
       "start_page": 1,
       "end_page": 9,
       "total_pages": 9
+    },
+    "brother_cant_sleep_next_to_me_osomatsu_kara_os": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/brother_cant_sleep_next_to_me_osomatsu_kara_os/page_%03d.json",
+      "start_page": 1,
+      "end_page": 15,
+      "total_pages": 15
+    },
+    "brother_eccentric_osomatsu_colorful": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/brother_eccentric_osomatsu_colorful/page_%03d.json",
+      "start_page": 1,
+      "end_page": 19,
+      "total_pages": 19
+    },
+    "brothers_beyond_osomatsu_karaos": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/brothers_beyond_osomatsu_karaos/page_%03d.json",
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32
     }
   }
 }
