@@ -13,6 +13,26 @@
       "total_pages": 15
     }
   },
+  "My_Hero_Academia": {
+    "alive_hero_academia_todoroki_bakugo": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/alive_hero_academia_todoroki_bakugo/page_%03d.json",
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30
+    },
+    "am1_00_boku_no_hero_academia_demo": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/am1_00_boku_no_hero_academia_demo/page_%03d.json",
+      "start_page": 1,
+      "end_page": 28,
+      "total_pages": 28
+    },
+    "ao_mha_bakugou": {
+      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/My_Hero_Academia/ao_mha_bakugou/page_%03d.json",
+      "start_page": 1,
+      "end_page": 53,
+      "total_pages": 53
+    }
+  },
   "Osomatsusan": {
     "accident_auto_neet_ikkamatsu_wolf_san": {
       "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/accident_auto_neet_ikkamatsu_wolf_san/page_%03d.json",
