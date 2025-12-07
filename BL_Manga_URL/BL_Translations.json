@@ -542,6 +542,25 @@
           "start_page": 1,
           "end_page": 33,
           "total_pages": 33
+        },
+        "es": {
+          "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/es/Osomatsusan/atsu_todo_incident_o_mat_san/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "backcode_side_osmtan_otomatsu_one_color": {
+      "start_page": 1,
+      "end_page": 203,
+      "total_pages": 203,
+      "translations": {
+        "es": {
+          "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/es/Osomatsusan/backcode_side_osmtan_otomatsu_one_color/page_%03d.json",
+          "start_page": 1,
+          "end_page": 203,
+          "total_pages": 203
         }
       }
     },
@@ -565,6 +584,12 @@
       "translations": {
         "en": {
           "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/en/Osomatsusan/bathroom_updates_osomatsu_karaos/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        },
+        "es": {
+          "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/es/Osomatsusan/bathroom_updates_osomatsu_karaos/page_%03d.json",
           "start_page": 1,
           "end_page": 22,
           "total_pages": 22
