@@ -27,6 +27,73 @@
       }
     }
   },
+  "Attack_on_Titan": {
+    "850_Attack_on_Titan_Belray": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/850_Attack_on_Titan_Belray/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "A_Monopoly_of_Love_Shougeki_no_Kyojin_Reile": {
+      "start_page": 1,
+      "end_page": 42,
+      "total_pages": 42,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/A_Monopoly_of_Love_Shougeki_no_Kyojin_Reile/page_%03d.json",
+          "start_page": 1,
+          "end_page": 42,
+          "total_pages": 42
+        }
+      }
+    },
+    "Adult_Flesh_Auction_Mobile_Jan_Today_Deep_Bi_Anime_MobJan": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Adult_Flesh_Auction_Mobile_Jan_Today_Deep_Bi_Anime_MobJan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
+    "Adulthood_Attack_on_Titan_Reiner_Eren": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Adulthood_Attack_on_Titan_Reiner_Eren/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
+    "after_FANSERVICE_attack_on_titan_Reinv_Ele": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/after_FANSERVICE_attack_on_titan_Reinv_Ele/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    }
+  },
   "Dungeon_Meshi": {
     "Because_We_Are_Friends_Dungeon_Meshi_Kaburai": {
       "start_page": 1,
