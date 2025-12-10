@@ -27,6 +27,47 @@
       }
     }
   },
+  "Assassination_Classroom": {
+    "Aigan_Sensei_Kill_Lecture_Karatori": {
+      "start_page": 1,
+      "end_page": 24,
+      "total_pages": 24,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/Aigan_Sensei_Kill_Lecture_Karatori/page_%03d.json",
+          "start_page": 1,
+          "end_page": 24,
+          "total_pages": 24
+        }
+      }
+    },
+    "adult_study_trip_assassination_classroom_karasaka": {
+      "start_page": 1,
+      "end_page": 37,
+      "total_pages": 37,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/adult_study_trip_assassination_classroom_karasaka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 37,
+          "total_pages": 37
+        }
+      }
+    },
+    "ansatsu_kyoshitsu_ga_erotic_things_only": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/ansatsu_kyoshitsu_ga_erotic_things_only/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    }
+  },
   "Attack_on_Titan": {
     "850_Attack_on_Titan_Belray": {
       "start_page": 1,
