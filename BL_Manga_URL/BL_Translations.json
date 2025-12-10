@@ -131,6 +131,12 @@
           "start_page": 1,
           "end_page": 38,
           "total_pages": 38
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
         }
       }
     },
@@ -141,6 +147,12 @@
       "translations": {
         "en": {
           "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 43,
+          "total_pages": 43
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.json",
           "start_page": 1,
           "end_page": 43,
           "total_pages": 43
@@ -157,6 +169,12 @@
           "start_page": 1,
           "end_page": 26,
           "total_pages": 26
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
         }
       }
     },
@@ -170,6 +188,12 @@
           "start_page": 1,
           "end_page": 42,
           "total_pages": 42
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 42,
+          "total_pages": 42
         }
       }
     },
@@ -180,6 +204,12 @@
       "translations": {
         "en": {
           "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 31,
+          "total_pages": 31
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.json",
           "start_page": 1,
           "end_page": 31,
           "total_pages": 31
