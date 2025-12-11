@@ -161,6 +161,125 @@
       }
     }
   },
+  "Blue_Lock": {
+    "120minutes_bluelock_rinketsu": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/120minutes_bluelock_rinketsu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "Aoi_Shoudou_Bluelock_Rin_Kiyoshi": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Aoi_Shoudou_Bluelock_Rin_Kiyoshi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
+    "Beginner_Love_Guide_Blue_Lock_Rei_Nagi": {
+      "start_page": 1,
+      "end_page": 44,
+      "total_pages": 44,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Beginner_Love_Guide_Blue_Lock_Rei_Nagi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 44,
+          "total_pages": 44
+        }
+      }
+    },
+    "Blue_Lock_Honey_Keiji": {
+      "start_page": 1,
+      "end_page": 33,
+      "total_pages": 33,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Honey_Keiji/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "Blue_Lock_Jerkijin_Tonight": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Jerkijin_Tonight/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "aim_at_you_bluelock_nagisaya": {
+      "start_page": 1,
+      "end_page": 78,
+      "total_pages": 78,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/aim_at_you_bluelock_nagisaya/page_%03d.json",
+          "start_page": 1,
+          "end_page": 78,
+          "total_pages": 78
+        }
+      }
+    },
+    "angel_nagito_and_demon_rei_blue_lock_nagirei": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/angel_nagito_and_demon_rei_blue_lock_nagirei/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
+    "aphrodisiac_anthology_blue_lock_nagare": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/aphrodisiac_anthology_blue_lock_nagare/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    },
+    "blue_lock_desire": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_desire/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
+    }
+  },
   "Demon_Slayer": {
     "A_Tale_From_A_Distant_Past_Demon_Slayer_Uzen": {
       "start_page": 1,
@@ -188,6 +307,32 @@
         }
       }
     },
+    "After_Breaking_the_Melon_Demon_Slayer_Rentan": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/After_Breaking_the_Melon_Demon_Slayer_Rentan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "After_Tsubaki_Fell_Demon_Slayer_True_Justice": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/After_Tsubaki_Fell_Demon_Slayer_True_Justice/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
     "absolutely_wants_to_make_xx_vs_absolutely_does_not_want_to_make_xx_demon_slayer_uren": {
       "start_page": 1,
       "end_page": 33,
@@ -198,6 +343,32 @@
           "start_page": 1,
           "end_page": 33,
           "total_pages": 33
+        }
+      }
+    },
+    "actually_there_is_no_way_to_say_i_was_a_succubus_male_demon_slayer_uzen": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/actually_there_is_no_way_to_say_i_was_a_succubus_male_demon_slayer_uzen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "agatsuma_sensei_and_uzui_kun_vol3_demon_slayer_uzen": {
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/agatsuma_sensei_and_uzui_kun_vol3_demon_slayer_uzen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 29,
+          "total_pages": 29
         }
       }
     }
