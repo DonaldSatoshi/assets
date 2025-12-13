@@ -278,6 +278,19 @@
           "total_pages": 32
         }
       }
+    },
+    "blue_lock_kai_wa_pon_goso_suru": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kai_wa_pon_goso_suru/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
     }
   },
   "Demon_Slayer": {
@@ -466,6 +479,73 @@
           "start_page": 1,
           "end_page": 31,
           "total_pages": 31
+        }
+      }
+    }
+  },
+  "Fate_Series": {
+    "24_hour_living_Fate_Series_Bow_and_Spear": {
+      "start_page": 1,
+      "end_page": 45,
+      "total_pages": 45,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/24_hour_living_Fate_Series_Bow_and_Spear/page_%03d.json",
+          "start_page": 1,
+          "end_page": 45,
+          "total_pages": 45
+        }
+      }
+    },
+    "aarl_meeting_stunning_person_Fate_Series_Ojiralosh": {
+      "start_page": 1,
+      "end_page": 46,
+      "total_pages": 46,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/aarl_meeting_stunning_person_Fate_Series_Ojiralosh/page_%03d.json",
+          "start_page": 1,
+          "end_page": 46,
+          "total_pages": 46
+        }
+      }
+    },
+    "abridged_misc_books_Fate_series_Karjuna": {
+      "start_page": 1,
+      "end_page": 8,
+      "total_pages": 8,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/abridged_misc_books_Fate_series_Karjuna/page_%03d.json",
+          "start_page": 1,
+          "end_page": 8,
+          "total_pages": 8
+        }
+      }
+    },
+    "absolute_battlefront_chaldea_fate_series": {
+      "start_page": 1,
+      "end_page": 19,
+      "total_pages": 19,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/absolute_battlefront_chaldea_fate_series/page_%03d.json",
+          "start_page": 1,
+          "end_page": 19,
+          "total_pages": 19
+        }
+      }
+    },
+    "after_school_astolfo_fate_series_zig_x_astolfo": {
+      "start_page": 1,
+      "end_page": 15,
+      "total_pages": 15,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/after_school_astolfo_fate_series_zig_x_astolfo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 15,
+          "total_pages": 15
         }
       }
     }
