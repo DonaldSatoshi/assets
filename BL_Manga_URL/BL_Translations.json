@@ -786,6 +786,73 @@
       }
     }
   },
+  "Jujutsu_Kaisen": {
+    "100_days_until_disbandment_hara_hon_jurassic_gouka": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/100_days_until_disbandment_hara_hon_jurassic_gouka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "10years_jujutsu_kaisen_goju": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/10years_jujutsu_kaisen_goju/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "27_14_IF_Jujutsu_Kaisen_GoYu": {
+      "start_page": 1,
+      "end_page": 61,
+      "total_pages": 61,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/27_14_IF_Jujutsu_Kaisen_GoYu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 61,
+          "total_pages": 61
+        }
+      }
+    },
+    "3Peace_JujiKaisen_Goyu": {
+      "start_page": 1,
+      "end_page": 76,
+      "total_pages": 76,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/3Peace_JujiKaisen_Goyu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 76,
+          "total_pages": 76
+        }
+      }
+    },
+    "A_and_A_Situation_Jujutsu_Kaisen_Goka": {
+      "start_page": 1,
+      "end_page": 28,
+      "total_pages": 28,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/A_and_A_Situation_Jujutsu_Kaisen_Goka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 28,
+          "total_pages": 28
+        }
+      }
+    }
+  },
   "My_Hero_Academia": {
     "alive_hero_academia_todoroki_bakugo": {
       "start_page": 1,
