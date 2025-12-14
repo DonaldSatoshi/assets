@@ -52749,7 +52749,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 13
+        "page_count": 21
       }
     ]
   },
@@ -52762,7 +52762,20 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 12
+        "page_count": 5
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - A Book About Otoya Ittoki Being Violated By A Mob Character",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_book_about_Otoya_Ittoki_being_violated_by_a_mob_character/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_book_about_Otoya_Ittoki_being_violated_by_a_mob_character/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 53
       }
     ]
   },
@@ -52775,7 +52788,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 12
+        "page_count": 20
       }
     ]
   },
@@ -52788,7 +52801,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 15
+        "page_count": 25
       }
     ]
   },
@@ -52801,7 +52814,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 15
+        "page_count": 18
       }
     ]
   },
@@ -52814,7 +52827,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 27
+        "page_count": 40
       }
     ]
   },
@@ -52827,7 +52840,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 16
+        "page_count": 26
       }
     ]
   },
@@ -52840,20 +52853,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 17
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - For Example If I Were A Girl Uta No Princesama Tokine",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/for_example_if_i_were_a_girl_uta_no_princesama_tokine/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/for_example_if_i_were_a_girl_uta_no_princesama_tokine/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 12
+        "page_count": 5
       }
     ]
   },
@@ -52866,7 +52866,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 14
+        "page_count": 10
       }
     ]
   },
@@ -52879,7 +52879,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 9
+        "page_count": 16
       }
     ]
   },
@@ -52892,7 +52892,20 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 14
+        "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Heir Paradox Uta No Prince Sama Mobmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Heir_Paradox_Uta_no_Prince_sama_MobMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Heir_Paradox_Uta_no_Prince_sama_MobMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
       }
     ]
   },
@@ -52905,7 +52918,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 21
+        "page_count": 34
       }
     ]
   },
@@ -52918,7 +52931,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 18
+        "page_count": 5
       }
     ]
   },
@@ -52931,7 +52944,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 16
+        "page_count": 26
       }
     ]
   },
@@ -52944,33 +52957,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 10
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Koizakura Uta No Prince Sama Ren Masa",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/koizakura_uta_no_prince_sama_ren_masa/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/koizakura_uta_no_prince_sama_ren_masa/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 15
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Kyun Kyun Kirakyun Uta No Prince Sama Raging Hou Kirara",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/kyun_kyun_kirakyun_uta_no_prince_sama_raging_hou_kirara/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/kyun_kyun_kirakyun_uta_no_prince_sama_raging_hou_kirara/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 13
+        "page_count": 21
       }
     ]
   },
@@ -52983,7 +52970,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 9
+        "page_count": 17
       }
     ]
   },
@@ -52996,20 +52983,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 17
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Lewd Circuitous Expediency Uta No Prince Sama Renmasa",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lewd_circuitous_expediency_uta_no_prince_sama_renmasa/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lewd_circuitous_expediency_uta_no_prince_sama_renmasa/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 19
+        "page_count": 18
       }
     ]
   },
@@ -53022,7 +52996,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 11
+        "page_count": 19
       }
     ]
   },
@@ -53035,7 +53009,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 14
+        "page_count": 24
       }
     ]
   },
@@ -53048,7 +53022,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 17
+        "page_count": 22
       }
     ]
   },
@@ -53061,7 +53035,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 7
+        "page_count": 12
       }
     ]
   },
@@ -53087,20 +53061,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 18
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - My Lover Gains Another Lover Uta No Prince Sama Ren Masa",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_lover_gains_another_lover_uta_no_prince_sama_ren_masa/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_lover_gains_another_lover_uta_no_prince_sama_ren_masa/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 29
+        "page_count": 31
       }
     ]
   },
@@ -53113,46 +53074,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 10
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Namakin Uta No Prince Sama Ototoki",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Prince_sama_OtoToki/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Prince_sama_OtoToki/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 10
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Nonnegotiable Love Uta No Prince Sama Ran Seshi",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Nonnegotiable_LOVE_Uta_no_Prince_sama_Ran_Seshi/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Nonnegotiable_LOVE_Uta_no_Prince_sama_Ran_Seshi/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 15
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - One Month Since Dating Uta No Prince Sama Tokioto",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/one_month_since_dating_uta_no_prince_sama_tokioto/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/one_month_since_dating_uta_no_prince_sama_tokioto/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 11
+        "page_count": 19
       }
     ]
   },
@@ -53165,7 +53087,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 23
+        "page_count": 10
       }
     ]
   },
@@ -53178,7 +53100,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 35
+        "page_count": 58
       }
     ]
   },
@@ -53191,7 +53113,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 21
+        "page_count": 20
       }
     ]
   },
@@ -53204,7 +53126,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 18
+        "page_count": 5
       }
     ]
   },
@@ -53214,32 +53136,6 @@
     "category": "Uta_no_Prince_sama",
     "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/springhotspring_uta_no_prince_sama_oto_toki/page_001.jpg",
     "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/springhotspring_uta_no_prince_sama_oto_toki/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 15
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - The Book Where Otoya Ittoki Is Sexually Assaulted By A Mob",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/The_Book_Where_Otoya_Ittoki_Is_Sexually_Assaulted_By_A_Mob/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/The_Book_Where_Otoya_Ittoki_Is_Sexually_Assaulted_By_A_Mob/page_%03d.jpg",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "page_count": 36
-      }
-    ]
-  },
-  {
-    "title": "Uta No Prince Sama - Threetwoonecue Uta No Prince Sama Oto Toki",
-    "description": "",
-    "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ThreeTwoOneCue_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ThreeTwoOneCue_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
     "episodes": [
       {
         "title": "Episode 1",
@@ -53256,7 +53152,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 14
+        "page_count": 24
       }
     ]
   },
@@ -53269,7 +53165,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 8
+        "page_count": 15
       }
     ]
   },
@@ -53282,7 +53178,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 14
+        "page_count": 20
       }
     ]
   },
@@ -53295,7 +53191,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 17
+        "page_count": 25
       }
     ]
   },
@@ -53308,7 +53204,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 13
+        "page_count": 15
       }
     ]
   }
