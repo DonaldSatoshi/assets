@@ -52749,7 +52749,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 21
+        "page_count": 22
       }
     ]
   },
@@ -52762,20 +52762,20 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 5
+        "page_count": 19
       }
     ]
   },
   {
-    "title": "Uta No Prince Sama - A Book About Otoya Ittoki Being Violated By A Mob Character",
+    "title": "Uta No Prince Sama - A House Cat Uta No Prince Sama Kamyu Seshi",
     "description": "",
     "category": "Uta_no_Prince_sama",
-    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_book_about_Otoya_Ittoki_being_violated_by_a_mob_character/page_001.jpg",
-    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_book_about_Otoya_Ittoki_being_violated_by_a_mob_character/page_%03d.jpg",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_House_Cat_Uta_no_Prince_sama_Kamyu_Seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/A_House_Cat_Uta_no_Prince_sama_Kamyu_Seshi/page_%03d.jpg",
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 53
+        "page_count": 23
       }
     ]
   },
@@ -52819,6 +52819,45 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Always Welcome My Dear Uta No Prince Sama",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Always_Welcome_My_Dear_Uta_no_Prince_sama/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Always_Welcome_My_Dear_Uta_no_Prince_sama/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Always Welcome My Dear Uta No Princesama Kuro Kamyu",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Always_welcome_my_dear_Uta_no_Princesama_Kuro_Kamyu/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Always_welcome_my_dear_Uta_no_Princesama_Kuro_Kamyu/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - An Awkward Summer Afternoon Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/An_Awkward_Summer_Afternoon_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/An_Awkward_Summer_Afternoon_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 30
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Angel Code Uta No Prince Sama Oto Toki",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -52828,6 +52867,136 @@
       {
         "title": "Episode 1",
         "page_count": 40
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - April 11 Under Cherry Blossoms Uta No Prince Sama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/april_11_under_cherry_blossoms_uta_no_prince_sama_tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/april_11_under_cherry_blossoms_uta_no_prince_sama_tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Asleep Or Awake Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Asleep_or_Awake_Uta_no_Prince_sama_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Asleep_or_Awake_Uta_no_Prince_sama_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 34
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Beginners Mind And God Uta No Prince Sama Masaren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Beginners_Mind_and_God_Uta_no_Prince_sama_Masaren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Beginners_Mind_and_God_Uta_no_Prince_sama_Masaren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Birdcage Diva Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/birdcage_diva_uta_no_prince_sama_oto_toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/birdcage_diva_uta_no_prince_sama_oto_toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Bitten By My Pet Dog Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/bitten_by_my_pet_dog_uta_no_prince_sama_oto_toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/bitten_by_my_pet_dog_uta_no_prince_sama_oto_toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 41
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Change Utano Prince Sama Reiran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/CHANGE_UTANO_PRINCE_SAMA_REIRAN/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/CHANGE_UTANO_PRINCE_SAMA_REIRAN/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 30
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Complex Lovers Utapri Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Complex_Lovers_Utapri_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Complex_Lovers_Utapri_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Crimason Circus Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Crimason_Circus_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Crimason_Circus_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 8
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Crimson Circus Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Crimson_Circus_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Crimson_Circus_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 8
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Dc2 Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/DC2_Uta_no_Prince_sama_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/DC2_Uta_no_Prince_sama_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 13
       }
     ]
   },
@@ -52853,7 +53022,124 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 5
+        "page_count": 21
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Dye Eater Uta No Prince Sama Ren Sho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Dye_Eater_Uta_no_Prince_sama_Ren_Sho/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Dye_Eater_Uta_no_Prince_sama_Ren_Sho/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Ecstasylove Utapri Tokiren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/EcstasyLove_UtaPri_Tokiren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/EcstasyLove_UtaPri_Tokiren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 25
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Eight Reiran Chan Racy Book Uta No Prince Sama Reiran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/eight_reiran_chan_racy_book_uta_no_prince_sama_reiran/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/eight_reiran_chan_racy_book_uta_no_prince_sama_reiran/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 21
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Even After The Time Of Dreaming Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Even_After_the_Time_of_Dreaming_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Even_After_the_Time_of_Dreaming_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 32
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Even So I Fall In Love Uta No Prince Sama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Even_So_I_Fall_In_Love_Uta_no_Prince_sama_Tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Even_So_I_Fall_In_Love_Uta_no_Prince_sama_Tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 20
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Fake Love Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Fake_Love_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Fake_Love_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 68
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - For Example If I Were A Girl Uta No Princesama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/for_example_if_i_were_a_girl_uta_no_princesama_tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/for_example_if_i_were_a_girl_uta_no_princesama_tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 20
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Go Home Uta No Prince Sama Kamyu Seshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/go_home_uta_no_prince_sama_kamyu_seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/go_home_uta_no_prince_sama_kamyu_seshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Going Steady Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/GOING_STEADY_UTA_NO_PRINCE_SAMA_OTO_TOKI/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/GOING_STEADY_UTA_NO_PRINCE_SAMA_OTO_TOKI/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 16
       }
     ]
   },
@@ -52866,7 +53152,20 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 10
+        "page_count": 22
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Gratitude Ninja Tools Calligraphy Scroll Yin Utano Prince Sama Otoseshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Gratitude_Ninja_Tools_Calligraphy_Scroll_Yin_Utano_Prince_sama_OtoSeshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Gratitude_Ninja_Tools_Calligraphy_Scroll_Yin_Utano_Prince_sama_OtoSeshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 16
       }
     ]
   },
@@ -52884,6 +53183,45 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Half Boiled Idol Reiji Kun Uta No Prince Sama Aine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Half_Boiled_Idol_Reiji_kun_Uta_no_Prince_sama_Aine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Half_Boiled_Idol_Reiji_kun_Uta_no_Prince_sama_Aine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 19
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Halloween And Tokiya Story Uta No Prince Sama Tokiya Oto",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/halloween_and_tokiya_story_uta_no_prince_sama_tokiya_oto/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/halloween_and_tokiya_story_uta_no_prince_sama_tokiya_oto/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Hard To Say I Xxxx You Uta No Prince Sama Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/hard_to_say_i_xxxx_you_uta_no_prince_sama_ren_masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/hard_to_say_i_xxxx_you_uta_no_prince_sama_ren_masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Hate Uta No Prince Sama Reiran",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -52892,7 +53230,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 24
+        "page_count": 25
       }
     ]
   },
@@ -52923,6 +53261,19 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Hypnosis Ren Kun Maji Iki 1000Percent Uta No Prince Sama Mobren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Hypnosis_Ren_kun_Maji_Iki_1000percent_Uta_no_Prince_sama_Mobren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Hypnosis_Ren_kun_Maji_Iki_1000percent_Uta_no_Prince_sama_Mobren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 19
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - I Want To Do It Uta No Prince Sama Oto Toki",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -52931,7 +53282,7 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 5
+        "page_count": 28
       }
     ]
   },
@@ -52949,6 +53300,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Jealousy Syndrome Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Jealousy_Syndrome_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Jealousy_Syndrome_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 35
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Kabejiri Renchan Uta No Princesama Moburen",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kabejiri_Renchan_Uta_no_Princesama_Moburen/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kabejiri_Renchan_Uta_no_Princesama_Moburen/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Kimi Ga Suki Uta No Prince Sama Suna Sho",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -52958,6 +53335,58 @@
       {
         "title": "Episode 1",
         "page_count": 21
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Kimi Ni Okuru Aria Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kimi_Ni_Okuru_Aria_Uta_No_Prince_Sama_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kimi_Ni_Okuru_Aria_Uta_No_Prince_Sama_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 43
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Koizakura Uta No Prince Sama Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/koizakura_uta_no_prince_sama_ren_masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/koizakura_uta_no_prince_sama_ren_masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Kurosaki San Uta No Prince Sama Masaran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kurosaki_san_Uta_no_Prince_sama_Masaran/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Kurosaki_san_Uta_no_Prince_sama_Masaran/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Kyun Kyun Kirakyun Uta No Prince Sama Raging Hou Kirara",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/kyun_kyun_kirakyun_uta_no_prince_sama_raging_hou_kirara/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/kyun_kyun_kirakyun_uta_no_prince_sama_raging_hou_kirara/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
       }
     ]
   },
@@ -52988,6 +53417,97 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Lewd Circuitous Expediency Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lewd_circuitous_expediency_uta_no_prince_sama_renmasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lewd_circuitous_expediency_uta_no_prince_sama_renmasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Liars Paradox Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Liars_Paradox_Uta_no_Prince_sama_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Liars_Paradox_Uta_no_Prince_sama_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 31
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Limit Uta No Princesama Nasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/LiMit_Uta_no_Princesama_Nasho/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/LiMit_Uta_no_Princesama_Nasho/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 21
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Listen Uta No Prince Sama Nasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/listen_uta_no_prince_sama_nasho/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/listen_uta_no_prince_sama_nasho/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Little White Lie Utapri Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Little_White_Lie_UtaPri_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Little_White_Lie_UtaPri_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Lost Island Uta No Prince Sama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Lost_Island_Uta_no_Prince_sama_Tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Lost_Island_Uta_no_Prince_sama_Tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Lost Time Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lost_time_uta_no_prince_sama_oto_toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/lost_time_uta_no_prince_sama_oto_toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Love Bubble Uta No Prince Sama Nasho",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53014,6 +53534,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Lovely Lovely Uta No Prince Sama Kamuren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Lovely_Lovely_Uta_no_Prince_sama_Kamuren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Lovely_Lovely_Uta_no_Prince_sama_Kamuren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 22
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Lovetypevirus Utanoprincesama Mineai",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/LoveTypeVirus_UtanoPrinceSama_Mineai/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/LoveTypeVirus_UtanoPrinceSama_Mineai/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Magic Blue Hour Uta No Prince Sama Kamuren",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53027,6 +53573,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Manner Belt For Boys Utapri Nasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/MANNER_BELT_FOR_BOYS_UTAPRI_NASHO/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/MANNER_BELT_FOR_BOYS_UTAPRI_NASHO/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 19
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Marakon Utapri Reiran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/marakon_utapri_reiran/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/marakon_utapri_reiran/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 144
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Masato Kun And Uncle Duo Uta No Prince Sama Mob Masa",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53036,6 +53608,19 @@
       {
         "title": "Episode 1",
         "page_count": 12
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Meister Uta No Prince Sama Ranrei",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Meister_Uta_no_Prince_sama_Ranrei/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Meister_Uta_no_Prince_sama_Ranrei/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 13
       }
     ]
   },
@@ -53066,6 +53651,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - My Cat Is The Cutest Two Uta No Prince Sama Mine Ran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_cat_is_the_cutest_two_uta_no_prince_sama_mine_ran/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_cat_is_the_cutest_two_uta_no_prince_sama_mine_ran/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - My Lover Gains Another Lover Uta No Prince Sama Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_lover_gains_another_lover_uta_no_prince_sama_ren_masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/my_lover_gains_another_lover_uta_no_prince_sama_ren_masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 37
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - My Tokiya Cant Be This Manly",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53079,6 +53690,136 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Namakin Uta No Prince Sama Ototoki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Prince_sama_OtoToki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Prince_sama_OtoToki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Namakin Uta No Princesama Ototoki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Princesama_OtoToki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Namakin_Uta_no_Princesama_OtoToki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Nonnegotiable Love Uta No Prince Sama Ran Seshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Nonnegotiable_LOVE_Uta_no_Prince_sama_Ran_Seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Nonnegotiable_LOVE_Uta_no_Prince_sama_Ran_Seshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Okusama Wa Onzoushi Uta No Prince Sama Masaren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Okusama_wa_Onzoushi_Uta_no_Prince_sama_Masaren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Okusama_wa_Onzoushi_Uta_no_Prince_sama_Masaren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 46
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - One Month Since Dating Uta No Prince Sama Tokioto",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/one_month_since_dating_uta_no_prince_sama_tokioto/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/one_month_since_dating_uta_no_prince_sama_tokioto/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 19
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - One More Time Uta No Prince Sama Nasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ONE_MORE_TIME_UTA_NO_PRINCE_SAMA_NASHO/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ONE_MORE_TIME_UTA_NO_PRINCE_SAMA_NASHO/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - One More Time Utapri Sunasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ONE_MORE_TIME_UTAPRI_SUNASHO/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ONE_MORE_TIME_UTAPRI_SUNASHO/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 18
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Ookami Shounen Uta No Prince Sama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Ookami_Shounen_Uta_no_Prince_sama_Tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Ookami_Shounen_Uta_no_Prince_sama_Tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 38
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Orange Hot Box Utapri Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ORANGE_HOT_BOX_UTAPRI_REN_MASA/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ORANGE_HOT_BOX_UTAPRI_REN_MASA/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Otoya Sama Watching Uta No Prince Sama Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/otoya_sama_watching_uta_no_prince_sama_ren_masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/otoya_sama_watching_uta_no_prince_sama_ren_masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 36
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Otst Uta No Princesama Tokion",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53087,7 +53828,85 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 10
+        "page_count": 36
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Penguin And Xxx Uta No Princesama Tokine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Penguin_and_XXX_Uta_no_Princesama_Tokine/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Penguin_and_XXX_Uta_no_Princesama_Tokine/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 14
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Penguin Andxxx Uta No Prince Sama Toki Oto",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Penguin_andXXX_Uta_no_Prince_sama_Toki_Oto/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Penguin_andXXX_Uta_no_Prince_sama_Toki_Oto/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 14
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Pillow Talk Uta No Prince Sama Ran Seshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/pillow_talk_uta_no_prince_sama_ran_seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/pillow_talk_uta_no_prince_sama_ran_seshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 36
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Pink Cherry Jam Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/pink_cherry_jam_uta_no_prince_sama_oto_toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/pink_cherry_jam_uta_no_prince_sama_oto_toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 27
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Pink Sugar Cinderella Utapri Sunasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Pink_Sugar_Cinderella_UtaPri_Sunasho/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Pink_Sugar_Cinderella_UtaPri_Sunasho/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Poor Seikawa Pillow Sales Office Uta No Prince Sama Mob Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Poor_Seikawa_Pillow_Sales_Office_Uta_no_Prince_sama_Mob_Masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Poor_Seikawa_Pillow_Sales_Office_Uta_no_Prince_sama_Mob_Masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
       }
     ]
   },
@@ -53105,6 +53924,19 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Reve Uta No Prince Sama Masaren",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/REVE_Uta_no_Prince_sama_Masaren/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/REVE_Uta_no_Prince_sama_Masaren/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Ringo Chan So Cute Uta No Prince Sama Moburin",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53113,7 +53945,59 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 20
+        "page_count": 26
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Roulette Assort Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Roulette_Assort_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Roulette_Assort_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Scarlet Heart Uta No Prince Sama Kamyu Seshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/scarlet_heart_uta_no_prince_sama_kamyu_seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/scarlet_heart_uta_no_prince_sama_kamyu_seshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 16
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Secret Love Style Uta No Prince Sama Tokioto",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/secret_love_style_uta_no_prince_sama_tokioto/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/secret_love_style_uta_no_prince_sama_tokioto/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 28
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Sgr Sex Guilty Rocknroll Uta No Prince Sama Mine Ran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/sgr_sex_guilty_rocknroll_uta_no_prince_sama_mine_ran/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/sgr_sex_guilty_rocknroll_uta_no_prince_sama_mine_ran/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 22
       }
     ]
   },
@@ -53126,7 +54010,33 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 5
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Sorry I Cant Translate That Due To Explicit Sexual Content Involving A Minor Here Are Sanitized Nonexplicit File Options You Can Use Instead Utapri Otoya Mob Encounter Otoya Utapri Mob Fanfic Utapri Otoya Mob Story Otoya Utapri Mob Tale Otoya Utapri Mob P",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Sorry_I_cant_translate_that_due_to_explicit_sexual_content_involving_a_minor_Here_are_sanitized_nonexplicit_file_options_you_can_use_instead_UtaPri_Otoya_Mob_Encounter_Otoya_UtaPri_Mob_Fanfic_UtaPri_Otoya_Mob_Story_Otoya_UtaPri_Mob_Tale_Otoya_UtaPri_Mob_P/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Sorry_I_cant_translate_that_due_to_explicit_sexual_content_involving_a_minor_Here_are_sanitized_nonexplicit_file_options_you_can_use_instead_UtaPri_Otoya_Mob_Encounter_Otoya_UtaPri_Mob_Fanfic_UtaPri_Otoya_Mob_Story_Otoya_UtaPri_Mob_Tale_Otoya_UtaPri_Mob_P/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 53
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Spicy Cat Uta No Prince Sama Ranrei",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Spicy_Cat_Uta_no_Prince_sama_Ranrei/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Spicy_Cat_Uta_no_Prince_sama_Ranrei/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 34
       }
     ]
   },
@@ -53144,6 +54054,58 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Stand Up Uta Prince Sama Aine",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/STAND_UP_UTA_PRINCE_SAMA_AINE/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/STAND_UP_UTA_PRINCE_SAMA_AINE/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 28
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Tenfold Return I Told You Uta No Prince Sama Camus Seshi",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/tenfold_return_i_told_you_uta_no_prince_sama_camus_seshi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/tenfold_return_i_told_you_uta_no_prince_sama_camus_seshi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - There Is No Song For You Uta No Prince Sama Renmasa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/There_is_no_song_for_you_Uta_no_Prince_sama_RenMasa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/There_is_no_song_for_you_Uta_no_Prince_sama_RenMasa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 52
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Threetwoonecue Uta No Prince Sama Oto Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ThreeTwoOneCue_Uta_no_Prince_sama_Oto_Toki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/ThreeTwoOneCue_Uta_no_Prince_sama_Oto_Toki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Tkoth Tokiya And Otoya Ecchi Book",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53153,6 +54115,19 @@
       {
         "title": "Episode 1",
         "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Tokiya And Halloween Story Uta No Princesama Tokioto",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Tokiya_and_Halloween_Story_Uta_no_Princesama_Tokioto/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Tokiya_and_Halloween_Story_Uta_no_Princesama_Tokioto/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
       }
     ]
   },
@@ -53183,6 +54158,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Until I Touch That Hand Uta No Prince Sama Ren Masa",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/until_i_touch_that_hand_uta_no_prince_sama_ren_masa/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/until_i_touch_that_hand_uta_no_prince_sama_ren_masa/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 25
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Welcome To Crazy World Uta No Prince Sama Mobu Toki",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/WELCOME_TO_CRAZY_WORLD_UTA_NO_PRINCE_SAMA_MOBU_TOKI/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/WELCOME_TO_CRAZY_WORLD_UTA_NO_PRINCE_SAMA_MOBU_TOKI/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 47
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Wh Double Ecchi Utano Prince Sama Oto Toki",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53196,6 +54197,32 @@
     ]
   },
   {
+    "title": "Uta No Prince Sama - Whipped Cream Sensation Star Uta No Prince Sama Nasho",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/WHIPPED_CREAM_SENSATION_STAR_UTA_NO_PRINCE_SAMA_NASHO/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/WHIPPED_CREAM_SENSATION_STAR_UTA_NO_PRINCE_SAMA_NASHO/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 13
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Whose Fault Is This Heat Utanoprincesama Camusceci",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Whose_Fault_Is_This_Heat_UtaNoPrinceSama_CamusCeci/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/Whose_Fault_Is_This_Heat_UtaNoPrinceSama_CamusCeci/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 30
+      }
+    ]
+  },
+  {
     "title": "Uta No Prince Sama - Why Not Utano Princesama Ototoki",
     "description": "",
     "category": "Uta_no_Prince_sama",
@@ -53204,7 +54231,20 @@
     "episodes": [
       {
         "title": "Episode 1",
-        "page_count": 15
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "Uta No Prince Sama - Xxx Me Uta No Prince Sama Reiran",
+    "description": "",
+    "category": "Uta_no_Prince_sama",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/XXX_ME_UTA_NO_PRINCE_SAMA_REIRAN/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/Uta_no_Prince_sama/XXX_ME_UTA_NO_PRINCE_SAMA_REIRAN/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
       }
     ]
   }
