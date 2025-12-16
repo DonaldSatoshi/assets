@@ -1,60 +1,1266 @@
 {
   "American_comics": {
     "Delightful_Depravity_Winter_Soldier_Captain_America": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/American_comics/Delightful_Depravity_Winter_Soldier_Captain_America/page_%03d.json",
       "start_page": 1,
       "end_page": 32,
-      "total_pages": 32
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/American_comics/Delightful_Depravity_Winter_Soldier_Captain_America/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
     },
     "TadanoEroHon_American_Comic_Series_Depth_P": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/American_comics/TadanoEroHon_American_Comic_Series_Depth_P/page_%03d.json",
       "start_page": 1,
       "end_page": 15,
-      "total_pages": 15
+      "total_pages": 15,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/American_comics/TadanoEroHon_American_Comic_Series_Depth_P/page_%03d.json",
+          "start_page": 1,
+          "end_page": 15,
+          "total_pages": 15
+        }
+      }
+    }
+  },
+  "Assassination_Classroom": {
+    "Aigan_Sensei_Kill_Lecture_Karatori": {
+      "start_page": 1,
+      "end_page": 24,
+      "total_pages": 24,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/Aigan_Sensei_Kill_Lecture_Karatori/page_%03d.json",
+          "start_page": 1,
+          "end_page": 24,
+          "total_pages": 24
+        }
+      }
+    },
+    "adult_study_trip_assassination_classroom_karasaka": {
+      "start_page": 1,
+      "end_page": 37,
+      "total_pages": 37,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/adult_study_trip_assassination_classroom_karasaka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 37,
+          "total_pages": 37
+        }
+      }
+    },
+    "ansatsu_kyoshitsu_ga_erotic_things_only": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Assassination_Classroom/ansatsu_kyoshitsu_ga_erotic_things_only/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    }
+  },
+  "Attack_on_Titan": {
+    "850_Attack_on_Titan_Belray": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/850_Attack_on_Titan_Belray/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "A_Monopoly_of_Love_Shougeki_no_Kyojin_Reile": {
+      "start_page": 1,
+      "end_page": 42,
+      "total_pages": 42,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/A_Monopoly_of_Love_Shougeki_no_Kyojin_Reile/page_%03d.json",
+          "start_page": 1,
+          "end_page": 42,
+          "total_pages": 42
+        }
+      }
+    },
+    "Adult_Flesh_Auction_Mobile_Jan_Today_Deep_Bi_Anime_MobJan": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Adult_Flesh_Auction_Mobile_Jan_Today_Deep_Bi_Anime_MobJan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
+    "Adulthood_Attack_on_Titan_Reiner_Eren": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Adulthood_Attack_on_Titan_Reiner_Eren/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
+    "After_School_Cake_Attack_on_Titan_Eruri": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 16,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/After_School_Cake_Attack_on_Titan_Eruri/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 16
+        }
+      }
+    },
+    "after_FANSERVICE_attack_on_titan_Reinv_Ele": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/after_FANSERVICE_attack_on_titan_Reinv_Ele/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
+    "age_15_boy_disinfection_of_body_book_attack_on_titan_elleri": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/age_15_boy_disinfection_of_body_book_attack_on_titan_elleri/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    }
+  },
+  "Blue_Lock": {
+    "120minutes_bluelock_rinketsu": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/120minutes_bluelock_rinketsu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "Aoi_Shoudou_Bluelock_Rin_Kiyoshi": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Aoi_Shoudou_Bluelock_Rin_Kiyoshi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
+    "Beginner_Love_Guide_Blue_Lock_Rei_Nagi": {
+      "start_page": 1,
+      "end_page": 44,
+      "total_pages": 44,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Beginner_Love_Guide_Blue_Lock_Rei_Nagi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 44,
+          "total_pages": 44
+        }
+      }
+    },
+    "Blue_Lock_Honey_Keiji": {
+      "start_page": 1,
+      "end_page": 33,
+      "total_pages": 33,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Honey_Keiji/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "Blue_Lock_Jerkijin_Tonight": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Jerkijin_Tonight/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "aim_at_you_bluelock_nagisaya": {
+      "start_page": 1,
+      "end_page": 78,
+      "total_pages": 78,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/aim_at_you_bluelock_nagisaya/page_%03d.json",
+          "start_page": 1,
+          "end_page": 78,
+          "total_pages": 78
+        }
+      }
+    },
+    "angel_nagito_and_demon_rei_blue_lock_nagirei": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/angel_nagito_and_demon_rei_blue_lock_nagirei/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
+    "aphrodisiac_anthology_blue_lock_nagare": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/aphrodisiac_anthology_blue_lock_nagare/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    },
+    "blue_lock_desire": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_desire/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
+    },
+    "blue_lock_kai_wa_pon_goso_suru": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kai_wa_pon_goso_suru/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
+    },
+    "blue_lock_kai_za_x_jou_bunny_food_waste_campaign": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kai_za_x_jou_bunny_food_waste_campaign/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "blue_lock_kaiser_and_kiyoshi_unique_face": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kaiser_and_kiyoshi_unique_face/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    }
+  },
+  "Demon_Slayer": {
+    "A_Tale_From_A_Distant_Past_Demon_Slayer_Uzen": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 31,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/A_Tale_From_A_Distant_Past_Demon_Slayer_Uzen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 31
+        }
+      }
+    },
+    "Absolute_Fate_Probability_Theory_Demon_Slayer_Rentan": {
+      "start_page": 1,
+      "end_page": 36,
+      "total_pages": 36,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/Absolute_Fate_Probability_Theory_Demon_Slayer_Rentan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 36,
+          "total_pages": 36
+        }
+      }
+    },
+    "After_Breaking_the_Melon_Demon_Slayer_Rentan": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/After_Breaking_the_Melon_Demon_Slayer_Rentan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "After_Tsubaki_Fell_Demon_Slayer_True_Justice": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/After_Tsubaki_Fell_Demon_Slayer_True_Justice/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "absolutely_wants_to_make_xx_vs_absolutely_does_not_want_to_make_xx_demon_slayer_uren": {
+      "start_page": 1,
+      "end_page": 33,
+      "total_pages": 33,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/absolutely_wants_to_make_xx_vs_absolutely_does_not_want_to_make_xx_demon_slayer_uren/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "actually_there_is_no_way_to_say_i_was_a_succubus_male_demon_slayer_uzen": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/actually_there_is_no_way_to_say_i_was_a_succubus_male_demon_slayer_uzen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "agatsuma_sensei_and_uzui_kun_vol3_demon_slayer_uzen": {
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/agatsuma_sensei_and_uzui_kun_vol3_demon_slayer_uzen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 29,
+          "total_pages": 29
+        }
+      }
+    }
+  },
+  "Dungeon_Meshi": {
+    "Because_We_Are_Friends_Dungeon_Meshi_Kaburai": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/Because_We_Are_Friends_Dungeon_Meshi_Kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI": {
+      "start_page": 1,
+      "end_page": 43,
+      "total_pages": 43,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 43,
+          "total_pages": 43
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/DONT_YOU_KNOW_BOILED_POTATOES_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 43,
+          "total_pages": 43
+        }
+      }
+    },
+    "EAT_YOU_UP_DUNGEON_MESHI_KABURAI": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/EAT_YOU_UP_DUNGEON_MESHI_KABURAI/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai": {
+      "start_page": 1,
+      "end_page": 42,
+      "total_pages": 42,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 42,
+          "total_pages": 42
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/i_dont_want_to_lose_to_an_onaho_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 42,
+          "total_pages": 42
+        }
+      }
+    },
+    "story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai": {
+      "start_page": 1,
+      "end_page": 31,
+      "total_pages": 31,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 31,
+          "total_pages": 31
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Dungeon_Meshi/story_of_being_locked_in_a_room_kaburai_cannot_exit_dungeon_meshi_kaburai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 31,
+          "total_pages": 31
+        }
+      }
+    }
+  },
+  "Fate_Series": {
+    "24_hour_living_Fate_Series_Bow_and_Spear": {
+      "start_page": 1,
+      "end_page": 45,
+      "total_pages": 45,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/24_hour_living_Fate_Series_Bow_and_Spear/page_%03d.json",
+          "start_page": 1,
+          "end_page": 45,
+          "total_pages": 45
+        }
+      }
+    },
+    "aarl_meeting_stunning_person_Fate_Series_Ojiralosh": {
+      "start_page": 1,
+      "end_page": 46,
+      "total_pages": 46,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/aarl_meeting_stunning_person_Fate_Series_Ojiralosh/page_%03d.json",
+          "start_page": 1,
+          "end_page": 46,
+          "total_pages": 46
+        }
+      }
+    },
+    "abridged_misc_books_Fate_series_Karjuna": {
+      "start_page": 1,
+      "end_page": 8,
+      "total_pages": 8,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/abridged_misc_books_Fate_series_Karjuna/page_%03d.json",
+          "start_page": 1,
+          "end_page": 8,
+          "total_pages": 8
+        }
+      }
+    },
+    "absolute_battlefront_chaldea_fate_series": {
+      "start_page": 1,
+      "end_page": 19,
+      "total_pages": 19,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/absolute_battlefront_chaldea_fate_series/page_%03d.json",
+          "start_page": 1,
+          "end_page": 19,
+          "total_pages": 19
+        }
+      }
+    },
+    "after_school_astolfo_fate_series_zig_x_astolfo": {
+      "start_page": 1,
+      "end_page": 15,
+      "total_pages": 15,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/after_school_astolfo_fate_series_zig_x_astolfo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 15,
+          "total_pages": 15
+        }
+      }
+    }
+  },
+  "Gegege_no_Kitarou": {
+    "Blessing_Kitaro_Water_Father": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Blessing_Kitaro_Water_Father/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "Blue_Heat_Drowning_Gegege_no_Kitaro_Geta_Water": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Blue_Heat_Drowning_Gegege_no_Kitaro_Geta_Water/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "Bright_Family_Planning_Kitune_GeGeGe_no_Kitaro_Kijuu": {
+      "start_page": 1,
+      "end_page": 36,
+      "total_pages": 36,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Bright_Family_Planning_Kitune_GeGeGe_no_Kitaro_Kijuu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 36,
+          "total_pages": 36
+        }
+      }
+    },
+    "Gegege_no_Kitaro_Father_Stream": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Gegege_no_Kitaro_Father_Stream/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "Gegege_no_Kitaro_Geta_Water": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Gegege_no_Kitaro_Geta_Water/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "Gekage_Godfather_Water_Insertion": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Gekage_Godfather_Water_Insertion/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "Genuinely_Longing_For_Friendship_Warmth_Kitaro_Father_Water": {
+      "start_page": 1,
+      "end_page": 50,
+      "total_pages": 50,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Genuinely_Longing_For_Friendship_Warmth_Kitaro_Father_Water/page_%03d.json",
+          "start_page": 1,
+          "end_page": 50,
+          "total_pages": 50
+        }
+      }
+    },
+    "Getgetsu_Kitaro_Kami_Mizu": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Getgetsu_Kitaro_Kami_Mizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "Kamo_rare_hamare_AV_appearance_Kitaro_FatherWater": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Kamo_rare_hamare_AV_appearance_Kitaro_FatherWater/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "Kitaro_Father_Water_Love_and_Hate": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Kitaro_Father_Water_Love_and_Hate/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
+    },
+    "Professor_and_Mizuki_Gegege_no_Kitaro_Father_Mizuki": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Professor_and_Mizuki_Gegege_no_Kitaro_Father_Mizuki/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
+    "StepFather_Incubus_Reincarnation_GeGeGeNoKitaro_GetaMizu": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/StepFather_Incubus_Reincarnation_GeGeGeNoKitaro_GetaMizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "T_woven_thread_beyond_reincarnation_genre_gaiden_gekiganokitaro_papa_mizu": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/T_woven_thread_beyond_reincarnation_genre_gaiden_gekiganokitaro_papa_mizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
+    },
+    "TsukiMichiTE_TsubakiChiru_GeGeGe_no_Kitaro_Mizufu": {
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/TsukiMichiTE_TsubakiChiru_GeGeGe_no_Kitaro_Mizufu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 29,
+          "total_pages": 29
+        }
+      }
+    },
+    "Unknown_Window_Kitaro_Kimizu": {
+      "start_page": 1,
+      "end_page": 37,
+      "total_pages": 37,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/Unknown_Window_Kitaro_Kimizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 37,
+          "total_pages": 37
+        }
+      }
+    },
+    "fuwa_fuwa_kitaro_oni_mizu": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/fuwa_fuwa_kitaro_oni_mizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "helping_easily_possessed_partner_nightly_with_sexual_spirit_godmother": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/helping_easily_possessed_partner_nightly_with_sexual_spirit_godmother/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
+    },
+    "lights_camera_action_gegege_no_kitaro_oni_mizu": {
+      "start_page": 1,
+      "end_page": 48,
+      "total_pages": 48,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Gegege_no_Kitarou/lights_camera_action_gegege_no_kitaro_oni_mizu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 48,
+          "total_pages": 48
+        }
+      }
+    }
+  },
+  "Jujutsu_Kaisen": {
+    "100_days_until_disbandment_hara_hon_jurassic_gouka": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/100_days_until_disbandment_hara_hon_jurassic_gouka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "10years_jujutsu_kaisen_goju": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/10years_jujutsu_kaisen_goju/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "27_14_IF_Jujutsu_Kaisen_GoYu": {
+      "start_page": 1,
+      "end_page": 61,
+      "total_pages": 61,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/27_14_IF_Jujutsu_Kaisen_GoYu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 61,
+          "total_pages": 61
+        }
+      }
+    },
+    "3Peace_JujiKaisen_Goyu": {
+      "start_page": 1,
+      "end_page": 76,
+      "total_pages": 76,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/3Peace_JujiKaisen_Goyu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 76,
+          "total_pages": 76
+        }
+      }
+    },
+    "A_and_A_Situation_Jujutsu_Kaisen_Goka": {
+      "start_page": 1,
+      "end_page": 28,
+      "total_pages": 28,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/A_and_A_Situation_Jujutsu_Kaisen_Goka/page_%03d.json",
+          "start_page": 1,
+          "end_page": 28,
+          "total_pages": 28
+        }
+      }
+    }
+  },
+  "My_Hero_Academia": {
+    "alive_hero_academia_todoroki_bakugo": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/alive_hero_academia_todoroki_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "am1_00_boku_no_hero_academia_demo": {
+      "start_page": 1,
+      "end_page": 28,
+      "total_pages": 28,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/am1_00_boku_no_hero_academia_demo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 28,
+          "total_pages": 28
+        }
+      }
+    },
+    "ao_mha_bakugou": {
+      "start_page": 1,
+      "end_page": 53,
+      "total_pages": 53,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/ao_mha_bakugou/page_%03d.json",
+          "start_page": 1,
+          "end_page": 53,
+          "total_pages": 53
+        }
+      }
+    },
+    "bad_end_in_the_world_bakugo_tabi": {
+      "start_page": 1,
+      "end_page": 31,
+      "total_pages": 31,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bad_end_in_the_world_bakugo_tabi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 31,
+          "total_pages": 31
+        }
+      }
+    },
+    "bad_end_world_boku_no_hero_academia_tabi_bakugou": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bad_end_world_boku_no_hero_academia_tabi_bakugou/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "bakugo_nipple_mosquito_bite_story_boku_no_hero_academia": {
+      "start_page": 1,
+      "end_page": 56,
+      "total_pages": 56,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bakugo_nipple_mosquito_bite_story_boku_no_hero_academia/page_%03d.json",
+          "start_page": 1,
+          "end_page": 56,
+          "total_pages": 56
+        }
+      }
+    },
+    "bakugo_perineum_development_buruhiro_esekai": {
+      "start_page": 1,
+      "end_page": 27,
+      "total_pages": 27,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bakugo_perineum_development_buruhiro_esekai/page_%03d.json",
+          "start_page": 1,
+          "end_page": 27,
+          "total_pages": 27
+        }
+      }
+    },
+    "bakugo_support_reprint_1": {
+      "start_page": 1,
+      "end_page": 71,
+      "total_pages": 71,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bakugo_support_reprint_1/page_%03d.json",
+          "start_page": 1,
+          "end_page": 71,
+          "total_pages": 71
+        }
+      }
     }
   },
   "Osomatsusan": {
     "accident_auto_neet_ikkamatsu_wolf_san": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/accident_auto_neet_ikkamatsu_wolf_san/page_%03d.json",
       "start_page": 1,
       "end_page": 18,
-      "total_pages": 18
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/accident_auto_neet_ikkamatsu_wolf_san/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/accident_auto_neet_ikkamatsu_wolf_san/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
     },
     "after_school_club_ishimatsu_theater_club_difficulty": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/after_school_club_ishimatsu_theater_club_difficulty/page_%03d.json",
       "start_page": 1,
       "end_page": 25,
-      "total_pages": 25
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/after_school_club_ishimatsu_theater_club_difficulty/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/after_school_club_ishimatsu_theater_club_difficulty/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
     },
     "akatsuka_ku_fuck_bass_tour_osomatsu_kara": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/akatsuka_ku_fuck_bass_tour_osomatsu_kara/page_%03d.json",
       "start_page": 1,
       "end_page": 26,
-      "total_pages": 26
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/akatsuka_ku_fuck_bass_tour_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/akatsuka_ku_fuck_bass_tour_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
     },
     "all_my_belongings_osomatsu_one_carat": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/all_my_belongings_osomatsu_one_carat/page_%03d.json",
       "start_page": 1,
       "end_page": 41,
-      "total_pages": 41
+      "total_pages": 41,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/all_my_belongings_osomatsu_one_carat/page_%03d.json",
+          "start_page": 1,
+          "end_page": 41,
+          "total_pages": 41
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/all_my_belongings_osomatsu_one_carat/page_%03d.json",
+          "start_page": 1,
+          "end_page": 41,
+          "total_pages": 41
+        }
+      }
     },
     "anatagonomi_osomatsu_kara": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/anatagonomi_osomatsu_kara/page_%03d.json",
       "start_page": 1,
       "end_page": 18,
-      "total_pages": 18
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/anatagonomi_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/anatagonomi_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
     },
     "atsu_todo_incident_o_mat_san": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/atsu_todo_incident_o_mat_san/page_%03d.json",
       "start_page": 1,
       "end_page": 33,
-      "total_pages": 33
+      "total_pages": 33,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/atsu_todo_incident_o_mat_san/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/atsu_todo_incident_o_mat_san/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "backcode_side_osmtan_otomatsu_one_color": {
+      "start_page": 1,
+      "end_page": 203,
+      "total_pages": 203,
+      "translations": {
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/backcode_side_osmtan_otomatsu_one_color/page_%03d.json",
+          "start_page": 1,
+          "end_page": 203,
+          "total_pages": 203
+        }
+      }
     },
     "backcode_sideosmt_sos_matsu_one_color": {
-      "url_format": "https://cae334cfa7d546935246da0499dde74e.r2.cloudflarestorage.com/bl-translationdata/Osomatsusan/backcode_sideosmt_sos_matsu_one_color/page_%03d.json",
       "start_page": 1,
       "end_page": 202,
-      "total_pages": 202
+      "total_pages": 202,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/backcode_sideosmt_sos_matsu_one_color/page_%03d.json",
+          "start_page": 1,
+          "end_page": 202,
+          "total_pages": 202
+        }
+      }
+    },
+    "bathroom_updates_osomatsu_karaos": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/bathroom_updates_osomatsu_karaos/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        },
+        "es": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/es/Osomatsusan/bathroom_updates_osomatsu_karaos/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
+    },
+    "beautiful_sex_life_osomatsu_14_1": {
+      "start_page": 1,
+      "end_page": 37,
+      "total_pages": 37,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/beautiful_sex_life_osomatsu_14_1/page_%03d.json",
+          "start_page": 1,
+          "end_page": 37,
+          "total_pages": 37
+        }
+      }
+    },
+    "beautiful_world_osomatsu_kara": {
+      "start_page": 1,
+      "end_page": 48,
+      "total_pages": 48,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/beautiful_world_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 48,
+          "total_pages": 48
+        }
+      }
+    },
+    "beginning_night_road_scent_osomatsu_osoto": {
+      "start_page": 1,
+      "end_page": 59,
+      "total_pages": 59,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/beginning_night_road_scent_osomatsu_osoto/page_%03d.json",
+          "start_page": 1,
+          "end_page": 59,
+          "total_pages": 59
+        }
+      }
+    },
+    "bitter_de_sweet_osomatsu_kara_todo": {
+      "start_page": 1,
+      "end_page": 20,
+      "total_pages": 20,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/bitter_de_sweet_osomatsu_kara_todo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 20,
+          "total_pages": 20
+        }
+      }
+    },
+    "bondge_osomatsu_osokara": {
+      "start_page": 1,
+      "end_page": 33,
+      "total_pages": 33,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/bondge_osomatsu_osokara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 33,
+          "total_pages": 33
+        }
+      }
+    },
+    "bos_taurine_male_barn_kara_pi_milk_eat_osomatsu_kara": {
+      "start_page": 1,
+      "end_page": 9,
+      "total_pages": 9,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/bos_taurine_male_barn_kara_pi_milk_eat_osomatsu_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 9,
+          "total_pages": 9
+        }
+      }
+    },
+    "brother_cant_sleep_next_to_me_osomatsu_kara_os": {
+      "start_page": 1,
+      "end_page": 15,
+      "total_pages": 15,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/brother_cant_sleep_next_to_me_osomatsu_kara_os/page_%03d.json",
+          "start_page": 1,
+          "end_page": 15,
+          "total_pages": 15
+        }
+      }
+    },
+    "brother_eccentric_osomatsu_colorful": {
+      "start_page": 1,
+      "end_page": 19,
+      "total_pages": 19,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/brother_eccentric_osomatsu_colorful/page_%03d.json",
+          "start_page": 1,
+          "end_page": 19,
+          "total_pages": 19
+        }
+      }
+    },
+    "brothers_beyond_osomatsu_karaos": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/brothers_beyond_osomatsu_karaos/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
     }
   }
 }
