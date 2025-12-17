@@ -227,6 +227,19 @@
         }
       }
     },
+    "Blue_Lock_Kaiser_and_Kiyoshi_Wings_Part_1": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Kaiser_and_Kiyoshi_Wings_Part_1/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
     "aim_at_you_bluelock_nagisaya": {
       "start_page": 1,
       "end_page": 78,
@@ -315,6 +328,19 @@
           "start_page": 1,
           "end_page": 14,
           "total_pages": 14
+        }
+      }
+    },
+    "blue_lock_kaiser_x_kiyoshi": {
+      "start_page": 1,
+      "end_page": 2,
+      "total_pages": 2,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kaiser_x_kiyoshi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 2,
+          "total_pages": 2
         }
       }
     }
