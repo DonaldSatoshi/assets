@@ -681,6 +681,19 @@
         }
       }
     },
+    "Apron_Free_Rinyou": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Free!/Apron_Free_Rinyou/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
     "alcohol_date_free_makoharu": {
       "start_page": 1,
       "end_page": 17,
@@ -704,6 +717,32 @@
           "start_page": 1,
           "end_page": 8,
           "total_pages": 8
+        }
+      }
+    },
+    "angelfish_wings_free_harurin": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Free!/angelfish_wings_free_harurin/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
+    "aprons_free_makoharu": {
+      "start_page": 1,
+      "end_page": 16,
+      "total_pages": 16,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Free!/aprons_free_makoharu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 16,
+          "total_pages": 16
         }
       }
     }
@@ -940,6 +979,73 @@
           "start_page": 1,
           "end_page": 48,
           "total_pages": 48
+        }
+      }
+    }
+  },
+  "Genshin": {
+    "23_59_genshin_guide": {
+      "start_page": 1,
+      "end_page": 17,
+      "total_pages": 17,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Genshin/23_59_genshin_guide/page_%03d.json",
+          "start_page": 1,
+          "end_page": 17,
+          "total_pages": 17
+        }
+      }
+    },
+    "And_Night_Breaks_Genshin_Zhongtart": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Genshin/And_Night_Breaks_Genshin_Zhongtart/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
+    "abracadabra_open_the_door_genshin_arkave": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Genshin/abracadabra_open_the_door_genshin_arkave/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 29
+        }
+      }
+    },
+    "all_your_own_genshin_waka_toma": {
+      "start_page": 1,
+      "end_page": 56,
+      "total_pages": 55,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Genshin/all_your_own_genshin_waka_toma/page_%03d.json",
+          "start_page": 1,
+          "end_page": 56,
+          "total_pages": 55
+        }
+      }
+    },
+    "animal_panic_genshin_diluc": {
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Genshin/animal_panic_genshin_diluc/page_%03d.json",
+          "start_page": 1,
+          "end_page": 29,
+          "total_pages": 29
         }
       }
     }
@@ -1391,6 +1497,73 @@
           "start_page": 1,
           "end_page": 32,
           "total_pages": 32
+        }
+      }
+    }
+  },
+  "Uta_no_Prince_sama": {
+    "801WNW1_Uta_no_Prince_sama_Oto_Toki": {
+      "start_page": 1,
+      "end_page": 19,
+      "total_pages": 19,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/801WNW1_Uta_no_Prince_sama_Oto_Toki/page_%03d.json",
+          "start_page": 1,
+          "end_page": 19,
+          "total_pages": 19
+        }
+      }
+    },
+    "801_Plus_1_Uta_no_Prince_sama_Oto_Toki": {
+      "start_page": 1,
+      "end_page": 22,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/801_Plus_1_Uta_no_Prince_sama_Oto_Toki/page_%03d.json",
+          "start_page": 1,
+          "end_page": 22,
+          "total_pages": 22
+        }
+      }
+    },
+    "A_House_Cat_Uta_no_Prince_sama_Kamyu_Seshi": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 22,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/A_House_Cat_Uta_no_Prince_sama_Kamyu_Seshi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 22
+        }
+      }
+    },
+    "accident_love_utano_prince_sama_ren_masa": {
+      "start_page": 1,
+      "end_page": 20,
+      "total_pages": 20,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/accident_love_utano_prince_sama_ren_masa/page_%03d.json",
+          "start_page": 1,
+          "end_page": 20,
+          "total_pages": 20
+        }
+      }
+    },
+    "aimer_uta_no_prince_sama_tokioto": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/aimer_uta_no_prince_sama_tokioto/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
         }
       }
     }
