@@ -382,6 +382,45 @@
           "total_pages": 18
         }
       }
+    },
+    "blue_lock_kunichigi_loved": {
+      "start_page": 1,
+      "end_page": 23,
+      "total_pages": 23,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kunichigi_loved/page_%03d.json",
+          "start_page": 1,
+          "end_page": 23,
+          "total_pages": 23
+        }
+      }
+    },
+    "blue_lock_kunitigi_right_foot_power_mid": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_kunitigi_right_foot_power_mid/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
+    "blue_lock_nagare": {
+      "start_page": 1,
+      "end_page": 46,
+      "total_pages": 45,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagare/page_%03d.json",
+          "start_page": 1,
+          "end_page": 46,
+          "total_pages": 45
+        }
+      }
     }
   },
   "Demon_Slayer": {
