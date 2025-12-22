@@ -1329,6 +1329,58 @@
           "total_pages": 71
         }
       }
+    },
+    "bakux2_three_point_todoroki_bakugo": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bakux2_three_point_todoroki_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
+        }
+      }
+    },
+    "bandages_do_not_remove_boku_hero_academia_todoroki_bakugo": {
+      "start_page": 1,
+      "end_page": 32,
+      "total_pages": 32,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/bandages_do_not_remove_boku_hero_academia_todoroki_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 32,
+          "total_pages": 32
+        }
+      }
+    },
+    "beginner_xxx_hero_boku_no_hero_academia_shutsugatsu": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/beginner_xxx_hero_boku_no_hero_academia_shutsugatsu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
+    "boku_no_hero_academia_kiri_birthday_manga": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/boku_no_hero_academia_kiri_birthday_manga/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
     }
   },
   "Osomatsusan": {
