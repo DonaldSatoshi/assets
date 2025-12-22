@@ -641,6 +641,47 @@
       }
     }
   },
+  "Eyeshield_21": {
+    "Captive_Princess_Knight_Shin_Seijuro_Is_This_Enough_to_Satisfy_You_Eyeshield_21_Mob_x_Shin": {
+      "start_page": 1,
+      "end_page": 20,
+      "total_pages": 20,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Eyeshield_21/Captive_Princess_Knight_Shin_Seijuro_Is_This_Enough_to_Satisfy_You_Eyeshield_21_Mob_x_Shin/page_%03d.json",
+          "start_page": 1,
+          "end_page": 20,
+          "total_pages": 20
+        }
+      }
+    },
+    "Heartless_Blues_Eyeshield_Twenty_One_Mob_x_Shin": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Eyeshield_21/Heartless_Blues_Eyeshield_Twenty_One_Mob_x_Shin/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
+    "SOS2_Eyeshield21_Shin_Sakura": {
+      "start_page": 1,
+      "end_page": 55,
+      "total_pages": 55,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Eyeshield_21/SOS2_Eyeshield21_Shin_Sakura/page_%03d.json",
+          "start_page": 1,
+          "end_page": 55,
+          "total_pages": 55
+        }
+      }
+    }
+  },
   "Fate_Series": {
     "24_hour_living_Fate_Series_Bow_and_Spear": {
       "start_page": 1,
@@ -1608,6 +1649,19 @@
         }
       }
     },
+    "Always_Welcome_My_Dear_Uta_no_Prince_sama": {
+      "start_page": 1,
+      "end_page": 29,
+      "total_pages": 29,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/Always_Welcome_My_Dear_Uta_no_Prince_sama/page_%03d.json",
+          "start_page": 1,
+          "end_page": 29,
+          "total_pages": 29
+        }
+      }
+    },
     "accident_love_utano_prince_sama_ren_masa": {
       "start_page": 1,
       "end_page": 20,
@@ -1631,6 +1685,19 @@
           "start_page": 1,
           "end_page": 25,
           "total_pages": 25
+        }
+      }
+    },
+    "all_standard_is_you_uta_no_princesama_toki_oto": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Uta_no_Prince_sama/all_standard_is_you_uta_no_princesama_toki_oto/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
         }
       }
     }
