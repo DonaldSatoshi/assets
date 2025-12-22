@@ -516,6 +516,34 @@
       }
     }
   },
+  "Detective_Conan": {
+    "A_Time_to_Be_Spoiled_DetectiveConan_AkaiFuruya": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Detective_Conan/A_Time_to_Be_Spoiled_DetectiveConan_AkaiFuruya/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "A_World_For_You_Detective_Conan": {
+      "start_page": 1,
+      "end_page": 52,
+      "total_pages": 52,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Detective_Conan/A_World_For_You_Detective_Conan/page_%03d.json",
+          "start_page": 1,
+          "end_page": 52,
+          "total_pages": 52
+        }
+      }
+    }
+  },
   "Dungeon_Meshi": {
     "Because_We_Are_Friends_Dungeon_Meshi_Kaburai": {
       "start_page": 1,
