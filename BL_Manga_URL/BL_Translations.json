@@ -134,6 +134,32 @@
         }
       }
     },
+    "Always_Liked_You_Reiner_Eren": {
+      "start_page": 1,
+      "end_page": 57,
+      "total_pages": 57,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Always_Liked_You_Reiner_Eren/page_%03d.json",
+          "start_page": 1,
+          "end_page": 57,
+          "total_pages": 57
+        }
+      }
+    },
+    "Amazing_Life_Progressive_Giant_Eren_Lilly": {
+      "start_page": 1,
+      "end_page": 18,
+      "total_pages": 18,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/Amazing_Life_Progressive_Giant_Eren_Lilly/page_%03d.json",
+          "start_page": 1,
+          "end_page": 18,
+          "total_pages": 18
+        }
+      }
+    },
     "after_FANSERVICE_attack_on_titan_Reinv_Ele": {
       "start_page": 1,
       "end_page": 23,
@@ -157,6 +183,19 @@
           "start_page": 1,
           "end_page": 25,
           "total_pages": 25
+        }
+      }
+    },
+    "another_hart_calls_attack_on_titan_ere_li": {
+      "start_page": 1,
+      "end_page": 39,
+      "total_pages": 39,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Attack_on_Titan/another_hart_calls_attack_on_titan_ere_li/page_%03d.json",
+          "start_page": 1,
+          "end_page": 39,
+          "total_pages": 39
         }
       }
     }
@@ -476,6 +515,19 @@
         }
       }
     },
+    "Ages_Over_Time_Demon_Slayer_Sabigi": {
+      "start_page": 1,
+      "end_page": 44,
+      "total_pages": 44,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/Ages_Over_Time_Demon_Slayer_Sabigi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 44,
+          "total_pages": 44
+        }
+      }
+    },
     "absolutely_wants_to_make_xx_vs_absolutely_does_not_want_to_make_xx_demon_slayer_uren": {
       "start_page": 1,
       "end_page": 33,
@@ -512,6 +564,32 @@
           "start_page": 1,
           "end_page": 29,
           "total_pages": 29
+        }
+      }
+    },
+    "all_firsts_demon_slayer_rengi": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/all_firsts_demon_slayer_rengi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "alluring_fragrance_demon_slayer_uren": {
+      "start_page": 1,
+      "end_page": 54,
+      "total_pages": 54,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Demon_Slayer/alluring_fragrance_demon_slayer_uren/page_%03d.json",
+          "start_page": 1,
+          "end_page": 54,
+          "total_pages": 54
         }
       }
     }
