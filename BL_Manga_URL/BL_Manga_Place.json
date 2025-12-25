@@ -1,5 +1,551 @@
 [
   {
+    "title": "A3 - Absolutely Keep It Secret But A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/absolutely_keep_it_secret_but_a_three_shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/absolutely_keep_it_secret_but_a_three_shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "A3 - Buzzword A Three",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/buzzword_a_three/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/buzzword_a_three/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      }
+    ]
+  },
+  {
+    "title": "A3 - Can I Do This Well A Three To Man",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Can_I_Do_This_Well_A_Three_To_Man/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Can_I_Do_This_Well_A_Three_To_Man/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 22
+      }
+    ]
+  },
+  {
+    "title": "A3 - Chigasaki Professor Extracurricular Lesson A Three Mob To",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Chigasaki_Professor_Extracurricular_Lesson_A_three_Mob_To/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Chigasaki_Professor_Extracurricular_Lesson_A_three_Mob_To/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 5
+      }
+    ]
+  },
+  {
+    "title": "A3 - Chikage Likes Cats A Three Chisaki",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/chikage_likes_cats_a_three_chisaki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/chikage_likes_cats_a_three_chisaki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 14
+      }
+    ]
+  },
+  {
+    "title": "A3 - Cue A Three Exclamation To Ten Thousand",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/cue_a_three_exclamation_to_ten_thousand/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/cue_a_three_exclamation_to_ten_thousand/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 5
+      }
+    ]
+  },
+  {
+    "title": "A3 - Destiny Of Polaris A Three Chito",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Destiny_of_Polaris_A_three_Chito/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Destiny_of_Polaris_A_three_Chito/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 53
+      }
+    ]
+  },
+  {
+    "title": "A3 - Dont Play With Me A Three Manten",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Dont_Play_With_Me_A_Three_Manten/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Dont_Play_With_Me_A_Three_Manten/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "A3 - Eat More Everything A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/eat_more_everything_a_three_shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/eat_more_everything_a_three_shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 20
+      }
+    ]
+  },
+  {
+    "title": "A3 - Edge A Three Heisetsu",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/EDGE_A_THREE_HEISETSU/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/EDGE_A_THREE_HEISETSU/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "A3 - Endless Sex Hell A Three Jou Tsumugi",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Endless_Sex_Hell_A_three_Jou_Tsumugi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Endless_Sex_Hell_A_three_Jou_Tsumugi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "A3 - Fall In You Athree Heavenlyfortune",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Fall_in_you_AThree_HeavenlyFortune/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Fall_in_you_AThree_HeavenlyFortune/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 48
+      }
+    ]
+  },
+  {
+    "title": "A3 - Give Me More A Three Tsumugi",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Give_Me_More_A_three_Tsumugi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Give_Me_More_A_three_Tsumugi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 15
+      }
+    ]
+  },
+  {
+    "title": "A3 - Good Night See You Tomorrow A Three Wan Zhi",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/good_night_see_you_tomorrow_a_three_wan_zhi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/good_night_see_you_tomorrow_a_three_wan_zhi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 20
+      }
+    ]
+  },
+  {
+    "title": "A3 - Goodbye To The Scars A Three Manji",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/goodbye_to_the_scars_a_three_manji/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/goodbye_to_the_scars_a_three_manji/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 42
+      }
+    ]
+  },
+  {
+    "title": "A3 - Hand In Glove With Athree Senchi",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/hand_in_glove_with_athree_senchi/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/hand_in_glove_with_athree_senchi/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 42
+      }
+    ]
+  },
+  {
+    "title": "A3 - Hapikoi Athree Juumuku",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/HapiKoi_Athree_Juumuku/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/HapiKoi_Athree_Juumuku/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 20
+      }
+    ]
+  },
+  {
+    "title": "A3 - Honey Trap A Three Tsuzuri",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/honey_trap_a_three_tsuzuri/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/honey_trap_a_three_tsuzuri/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "A3 - I Hate Someone Like You A Three Heisetsu",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/i_hate_someone_like_you_a_three_heisetsu/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/i_hate_someone_like_you_a_three_heisetsu/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 33
+      }
+    ]
+  },
+  {
+    "title": "A3 - I Will Be Absent Tomorrow",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/i_will_be_absent_tomorrow/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/i_will_be_absent_tomorrow/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 22
+      }
+    ]
+  },
+  {
+    "title": "A3 - In Park Nine Count A Three Mansa",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/IN_PARK_NINE_COUNT_A_THREE_MANSA/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/IN_PARK_NINE_COUNT_A_THREE_MANSA/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 16
+      }
+    ]
+  },
+  {
+    "title": "A3 - Kamitsuki Syndrome A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Kamitsuki_Syndrome_A_THREE_Shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Kamitsuki_Syndrome_A_THREE_Shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 5
+      }
+    ]
+  },
+  {
+    "title": "A3 - Kyu A Three Manji",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/kyu_a_three_manji/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/kyu_a_three_manji/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 29
+      }
+    ]
+  },
+  {
+    "title": "A3 - Light With Different Colors And Brightness A Three Manta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/light_with_different_colors_and_brightness_a_three_manta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/light_with_different_colors_and_brightness_a_three_manta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 28
+      }
+    ]
+  },
+  {
+    "title": "A3 - Looking Only At You A3 Waten",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Looking_Only_At_You_A3_WATEN/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Looking_Only_At_You_A3_WATEN/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 35
+      }
+    ]
+  },
+  {
+    "title": "A3 - Love Letter At Four Am A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/love_letter_at_four_am_a_three_shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/love_letter_at_four_am_a_three_shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 25
+      }
+    ]
+  },
+  {
+    "title": "A3 - Love Love Love A Three Days",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/love_love_love_a_three_days/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/love_love_love_a_three_days/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 10
+      }
+    ]
+  },
+  {
+    "title": "A3 - Loves Trouble A3",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Loves_Trouble_A3/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Loves_Trouble_A3/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 23
+      }
+    ]
+  },
+  {
+    "title": "A3 - Maniac A Three Waten",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/MANIAC_A_THREE_WATEN/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/MANIAC_A_THREE_WATEN/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 26
+      }
+    ]
+  },
+  {
+    "title": "A3 - Naked A Three Manji",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Naked_A_Three_Manji/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Naked_A_Three_Manji/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 24
+      }
+    ]
+  },
+  {
+    "title": "A3 - Never End Roll A Three Joto",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/NEVER_END_ROLL_A_THREE_JOTO/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/NEVER_END_ROLL_A_THREE_JOTO/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 25
+      }
+    ]
+  },
+  {
+    "title": "A3 - Our Vita Sexualis A3 Manji",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Our_Vita_Sexualis_A3_Manji/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Our_Vita_Sexualis_A3_Manji/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 14
+      }
+    ]
+  },
+  {
+    "title": "A3 - Secret Tosaki",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/secret_tosaki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/secret_tosaki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 10
+      }
+    ]
+  },
+  {
+    "title": "A3 - Starless World A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Starless_World_A_three_Shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Starless_World_A_three_Shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 55
+      }
+    ]
+  },
+  {
+    "title": "A3 - Stubborn Omega Wants To Be Bitten A Three Manji",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Stubborn_Omega_Wants_To_Be_Bitten_A_Three_Manji/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Stubborn_Omega_Wants_To_Be_Bitten_A_Three_Manji/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 30
+      }
+    ]
+  },
+  {
+    "title": "A3 - Temptation A Three Subject Left",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/temptation_A_three_subject_left/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/temptation_A_three_subject_left/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 25
+      }
+    ]
+  },
+  {
+    "title": "A3 - Tonight Is The Turning Point A Three Chisaki",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/tonight_is_the_turning_point_a_three_chisaki/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/tonight_is_the_turning_point_a_three_chisaki/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 80
+      }
+    ]
+  },
+  {
+    "title": "A3 - Too Awkward Season A Three Tenko",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Too_Awkward_Season_A_Three_Tenko/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Too_Awkward_Season_A_Three_Tenko/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 22
+      }
+    ]
+  },
+  {
+    "title": "A3 - Two Person Limit A Three Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/two_person_limit_a_three_shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/two_person_limit_a_three_shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 19
+      }
+    ]
+  },
+  {
+    "title": "A3 - Whisper I Love You Athree Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Whisper_I_Love_You_Athree_Shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Whisper_I_Love_You_Athree_Shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 17
+      }
+    ]
+  },
+  {
+    "title": "A3 - Worthless Wonderful World A Three Wanzhi",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/WORTHLESS_WONDERFUL_WORLD_A_THREE_WANZHI/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/WORTHLESS_WONDERFUL_WORLD_A_THREE_WANZHI/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 5
+      }
+    ]
+  },
+  {
+    "title": "A3 - Yellow Sunshine Athree Shinta",
+    "description": "",
+    "category": "A3",
+    "image_url": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Yellow_Sunshine_Athree_Shinta/page_001.jpg",
+    "episode_format": "https://pub-f34d31508eb24b8299723cd8ad6aba2b.r2.dev/A3/Yellow_Sunshine_Athree_Shinta/page_%03d.jpg",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "page_count": 51
+      }
+    ]
+  },
+  {
     "title": "American Comics - Delightful Depravity Winter Soldier Captain America",
     "description": "",
     "category": "American_comics",
