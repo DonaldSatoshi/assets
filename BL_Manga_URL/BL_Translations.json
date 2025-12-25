@@ -305,6 +305,45 @@
         }
       }
     },
+    "Blue_Lock_Nagare_Reco": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Nagare_Reco/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "Blue_Lock_Nagare_Rei_Locked_Room": {
+      "start_page": 1,
+      "end_page": 48,
+      "total_pages": 48,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Nagare_Rei_Locked_Room/page_%03d.json",
+          "start_page": 1,
+          "end_page": 48,
+          "total_pages": 48
+        }
+      }
+    },
+    "Blue_Lock_Nagi_Kiyoshi": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Nagi_Kiyoshi/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
     "aim_at_you_bluelock_nagisaya": {
       "start_page": 1,
       "end_page": 78,
@@ -458,6 +497,32 @@
           "start_page": 1,
           "end_page": 46,
           "total_pages": 45
+        }
+      }
+    },
+    "blue_lock_nagare_kurosu_misunderstanding_feelings": {
+      "start_page": 1,
+      "end_page": 35,
+      "total_pages": 35,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagare_kurosu_misunderstanding_feelings/page_%03d.json",
+          "start_page": 1,
+          "end_page": 35,
+          "total_pages": 35
+        }
+      }
+    },
+    "blue_lock_nagi_kiyo": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagi_kiyo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
         }
       }
     }
@@ -774,6 +839,32 @@
         }
       }
     },
+    "Agency_Work_Fate_Series_Touch": {
+      "start_page": 1,
+      "end_page": 14,
+      "total_pages": 14,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/Agency_Work_Fate_Series_Touch/page_%03d.json",
+          "start_page": 1,
+          "end_page": 14,
+          "total_pages": 14
+        }
+      }
+    },
+    "Alternative_Sex_Fate_Series_Mob_Master_Male_X_Cu_Chulainn_Alter": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/Alternative_Sex_Fate_Series_Mob_Master_Male_X_Cu_Chulainn_Alter/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
+        }
+      }
+    },
     "aarl_meeting_stunning_person_Fate_Series_Ojiralosh": {
       "start_page": 1,
       "end_page": 46,
@@ -823,6 +914,45 @@
           "start_page": 1,
           "end_page": 15,
           "total_pages": 15
+        }
+      }
+    },
+    "agent_notes_2_fate_series_castgill_time": {
+      "start_page": 1,
+      "end_page": 49,
+      "total_pages": 49,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/agent_notes_2_fate_series_castgill_time/page_%03d.json",
+          "start_page": 1,
+          "end_page": 49,
+          "total_pages": 49
+        }
+      }
+    },
+    "akenikuranu_yoru_part1_Fate_series_thing_gil": {
+      "start_page": 1,
+      "end_page": 31,
+      "total_pages": 31,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/akenikuranu_yoru_part1_Fate_series_thing_gil/page_%03d.json",
+          "start_page": 1,
+          "end_page": 31,
+          "total_pages": 31
+        }
+      }
+    },
+    "alive_fate_series_arthur_guda": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 38,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Fate_Series/alive_fate_series_arthur_guda/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 38
         }
       }
     }
@@ -1299,6 +1429,71 @@
           "start_page": 1,
           "end_page": 28,
           "total_pages": 28
+        }
+      }
+    },
+    "Afternoon_Summer_Rain_Jujutsu_Kaisen_Goji": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/Afternoon_Summer_Rain_Jujutsu_Kaisen_Goji/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "All_Knowing_Sorcerer_Five_Voices": {
+      "start_page": 1,
+      "end_page": 17,
+      "total_pages": 17,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/All_Knowing_Sorcerer_Five_Voices/page_%03d.json",
+          "start_page": 1,
+          "end_page": 17,
+          "total_pages": 17
+        }
+      }
+    },
+    "airport_jurassic_gyokusen": {
+      "start_page": 1,
+      "end_page": 16,
+      "total_pages": 16,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/airport_jurassic_gyokusen/page_%03d.json",
+          "start_page": 1,
+          "end_page": 16,
+          "total_pages": 16
+        }
+      }
+    },
+    "alcohol_and_youth_jujutsu_kaisen_go_katsu": {
+      "start_page": 1,
+      "end_page": 38,
+      "total_pages": 37,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/alcohol_and_youth_jujutsu_kaisen_go_katsu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 38,
+          "total_pages": 37
+        }
+      }
+    },
+    "all_fireworks_launched_jujutsu_kaisen_go_yuu": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Jujutsu_Kaisen/all_fireworks_launched_jujutsu_kaisen_go_yuu/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
         }
       }
     }
