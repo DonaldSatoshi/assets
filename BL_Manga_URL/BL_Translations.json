@@ -344,6 +344,19 @@
         }
       }
     },
+    "Blue_Lock_Nagi_Rei": {
+      "start_page": 1,
+      "end_page": 25,
+      "total_pages": 25,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/Blue_Lock_Nagi_Rei/page_%03d.json",
+          "start_page": 1,
+          "end_page": 25,
+          "total_pages": 25
+        }
+      }
+    },
     "aim_at_you_bluelock_nagisaya": {
       "start_page": 1,
       "end_page": 78,
@@ -523,6 +536,58 @@
           "start_page": 1,
           "end_page": 38,
           "total_pages": 38
+        }
+      }
+    },
+    "blue_lock_nagi_rei_partner": {
+      "start_page": 1,
+      "end_page": 40,
+      "total_pages": 40,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagi_rei_partner/page_%03d.json",
+          "start_page": 1,
+          "end_page": 40,
+          "total_pages": 40
+        }
+      }
+    },
+    "blue_lock_nagi_x_baron": {
+      "start_page": 1,
+      "end_page": 72,
+      "total_pages": 72,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagi_x_baron/page_%03d.json",
+          "start_page": 1,
+          "end_page": 72,
+          "total_pages": 72
+        }
+      }
+    },
+    "blue_lock_nagisa": {
+      "start_page": 1,
+      "end_page": 34,
+      "total_pages": 34,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_nagisa/page_%03d.json",
+          "start_page": 1,
+          "end_page": 34,
+          "total_pages": 34
+        }
+      }
+    },
+    "blue_lock_rinkets": {
+      "start_page": 1,
+      "end_page": 45,
+      "total_pages": 45,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Blue_Lock/blue_lock_rinkets/page_%03d.json",
+          "start_page": 1,
+          "end_page": 45,
+          "total_pages": 45
         }
       }
     }
@@ -1654,6 +1719,71 @@
           "total_pages": 25
         }
       }
+    },
+    "boy_meets_work_shonen_hero": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/boy_meets_work_shonen_hero/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "cancer_boku_no_hero_academia_genji": {
+      "start_page": 1,
+      "end_page": 24,
+      "total_pages": 24,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/cancer_boku_no_hero_academia_genji/page_%03d.json",
+          "start_page": 1,
+          "end_page": 24,
+          "total_pages": 24
+        }
+      }
+    },
+    "carbonated_junior_hero_bakugo": {
+      "start_page": 1,
+      "end_page": 27,
+      "total_pages": 27,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/carbonated_junior_hero_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 27,
+          "total_pages": 27
+        }
+      }
+    },
+    "cest_la_vie_boku_no_hero_academia_todoroki_bakugo": {
+      "start_page": 1,
+      "end_page": 46,
+      "total_pages": 46,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/cest_la_vie_boku_no_hero_academia_todoroki_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 46,
+          "total_pages": 46
+        }
+      }
+    },
+    "clear_bypass_boku_no_hero_academia_bakugo": {
+      "start_page": 1,
+      "end_page": 59,
+      "total_pages": 59,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/My_Hero_Academia/clear_bypass_boku_no_hero_academia_bakugo/page_%03d.json",
+          "start_page": 1,
+          "end_page": 59,
+          "total_pages": 59
+        }
+      }
     }
   },
   "Osomatsusan": {
@@ -2112,6 +2242,71 @@
           "start_page": 1,
           "end_page": 42,
           "total_pages": 42
+        }
+      }
+    },
+    "deal_with_the_devil_osomatsu_ikara": {
+      "start_page": 1,
+      "end_page": 52,
+      "total_pages": 50,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/deal_with_the_devil_osomatsu_ikara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 52,
+          "total_pages": 50
+        }
+      }
+    },
+    "dear_dilly_dally_osomatsu_14": {
+      "start_page": 1,
+      "end_page": 56,
+      "total_pages": 56,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/dear_dilly_dally_osomatsu_14/page_%03d.json",
+          "start_page": 1,
+          "end_page": 56,
+          "total_pages": 56
+        }
+      }
+    },
+    "destined_with_me_osomatsu_kara_oso": {
+      "start_page": 1,
+      "end_page": 30,
+      "total_pages": 30,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/destined_with_me_osomatsu_kara_oso/page_%03d.json",
+          "start_page": 1,
+          "end_page": 30,
+          "total_pages": 30
+        }
+      }
+    },
+    "destiny_osomatsu_osa_kara": {
+      "start_page": 1,
+      "end_page": 93,
+      "total_pages": 93,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/destiny_osomatsu_osa_kara/page_%03d.json",
+          "start_page": 1,
+          "end_page": 93,
+          "total_pages": 93
+        }
+      }
+    },
+    "dog_feelings_cat_feelings_my_feelings_osomatsu_14": {
+      "start_page": 1,
+      "end_page": 26,
+      "total_pages": 26,
+      "translations": {
+        "en": {
+          "url_format": "https://pub-3c5dc5616cb2416b9a9a25e5cbcc7494.r2.dev/en/Osomatsusan/dog_feelings_cat_feelings_my_feelings_osomatsu_14/page_%03d.json",
+          "start_page": 1,
+          "end_page": 26,
+          "total_pages": 26
         }
       }
     }
